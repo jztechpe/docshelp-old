@@ -1,5 +1,4 @@
 # English (default)
-
 en:
   previous:                   "Previous"
   next:                       "Next"
@@ -18,3 +17,23 @@ en:
   contact_subject:            "Subject"
   contact_message:            "Message"
   contact_send:               "Send"
+
+# Espanol
+es:
+  previous:                   "Anterior"
+  next:                       "Siguiente"
+  related_docs:               "Documentos Relacionados"
+  related_posts:              "Entradas Relacionadas"
+  read_more:                  "Leer más"
+  written_by:                 "Escrito por"
+  share_twitter:              "Compartir en Twitter"
+  share_facebook:             "Compartir en Facebook"
+  search_placeholder:         "Buscar"
+  search_no_results:          "No hubo resultados"
+  mobile_nav_docs:            "Documentos"
+  mobile_nav_site:            "Menu"
+  contact_name:               "Nombre"
+  contact_email:              "Email"
+  contact_subject:            "Titulo"
+  contact_message:            "Mensaje"
+  contact_send:               "Enviar"
