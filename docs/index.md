@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+---
+layout: page
+width: expand
+hero:
+    title: Centro de ayuda para JZTECH
+    subtitle: Enterate de todo lo necesario para operar la plataforma JZTECH y poder aprovechar al maximo la potencia de esta plataforma.
+    image: knowledge.svg
+    search: true
+---
 
-You can use the [editor on GitHub](https://github.com/jztechpe/docshelp/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+{% include boxes.html columns="3" title="Browse Topics" subtitle="Chose an option that you need help with or search above" %}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+{% include featured.html tag="featured" title="Popular Articles" subtitle="Selected featured articles to get you started fast in Jekyll" %}
 
-### Markdown
+{% include videos.html columns="2" title="Video Tutorials" subtitle="Watch screencasts to get you started fast with Jekyll" %}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+{% include faqs.html multiple="true" title="Frequently asked questions" category="presale" subtitle="Find quicke answers to frequent pre-sale questions asked by customers" %}
 
-```markdown
-Syntax highlighted code block
+{% include team.html authors="evan, john, sara, alex, tom, daniel" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %}
 
-# Header 1
-## Header 2
-### Header 3
+{% include cta.html title="Didn't find an answer?" button_text="Contact Us" button_url="/contact/" subtitle="Get in touch with us for details on setup and additional custom services pricing" %}
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jztechpe/docshelp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
