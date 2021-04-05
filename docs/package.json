@@ -1,5 +1,5 @@
 {
-  "name": "Docs",
+  "name": "@juntoz/docshelp",
   "version": "1.0.0",
   "description": "Docs Jekyll theme.",
   "main": "index.js",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/jztechpe/docshelp.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/"
+    "url": "https://github.com/jztechpe/docshelp"
   },
-  "homepage": "https://github.com/",
+  "homepage": "https://jztechpe.github.io/docshelp",
   "dependencies": {
     "simple-jekyll-search": "^1.7.2",
     "system-font-css": "^2.0.1",
