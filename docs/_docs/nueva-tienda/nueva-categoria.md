@@ -4,15 +4,14 @@ subtitle: Crear, editar y buscar
 tags: [featured, development]
 author: ivan
 ---
-<p>
-El usuario tiene que haber iniciado sesión.<br>
-Seleccionar la tienda del Merchant para que ingrese a la aplicación<br>
-El sistema mostrará el Dashboard.<br>
-Dentro de la pantalla se puede visualizar la opción de Tiendas<br>
-Hacer clic en la opción Tiendas<br>
-Hacer clic en el icono editar<br>
-Se visualizará la información básica de la tienda<br>
-Hacer clic en la opción categorías. <br>
+
+## Registro inicial
+
+{% include alert.html style="success" text="⭐ Recuerda que para poder realizar esta acción, debes tener una tienda creada" %}
+
+Seleccionar la tienda del Merchant, en la pantalla se puede visualizar la opción de **Categorías** -> **Nueva Categoría**
+
 {% include image.html img="../docs/nueva-tienda/nueva-categoria-1.jpg" alt="Alt for image" caption="prueba" %}
-Escribir la categoría de la tienda<br>
-Hacer clic en el botón “Añadir” y automáticamente se añadirá la categoría</p>
+Aqui debemos escribir el *Nombre* y *Código* de la categoría nueva.
+{% include image.html img="../docs/nueva-tienda/nueva-categoria-2.jpg" alt="Alt for image" caption="prueba" %}
+Hacer clic en el botón **Añadir** y automáticamente se añadirá la categoría
