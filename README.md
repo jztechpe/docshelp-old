@@ -31,3 +31,4 @@ bundle exec jekyll s --livereload
 This will build and then open a local server like localhost:4944 and then you can open a browser, to see the live updates you make to the files.
 
 8. To commit your changes, in VSCODE use the Git Commit command to update your local repo, then Git Push to upload to the server remote repo.
+
