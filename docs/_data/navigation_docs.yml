@@ -1,4 +1,12 @@
 - title: Primeros pasos
   docs:
-  - nueva-tienda/nueva-marca      
-  - nueva-tienda/nueva-categoria
+  - primeros-pasos/login
+  - primeros-pasos/nueva-marca      
+  - primeros-pasos/nueva-categoria
+  - primeros-pasos/nuevo-producto
+  - primeros-pasos/nuevo-pedido
+- title: Avanzado
+  docs:
+  - avanzado/crear-usuario
+  - avanzado/crear-tienda
+  - avanzado/operaciones-masivas
