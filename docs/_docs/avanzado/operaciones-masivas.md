@@ -5,4 +5,14 @@ tags: [operaciones_masivas]
 author: ivan
 ---
 
-## Operaciones masivas
+## General
+
+## Creación masiva de productos
+
+## Actualización masiva de stocks
+
+## Actualización masiva de precios base
+
+## Actualización masiva de precios urgentes
+
+## Actualización masiva de boost
