@@ -8,18 +8,16 @@ author: ivan
 ## Registro inicial
 
 {% include alert.html style="success" text="⭐ Recuerda que para el registro de productos tenemos la opción para hacerlo de uno a uno y la carga masiva, en esta seccion explicaremos la opción de uno a uno" %}
-Seleccionar la tienda del Merchant, en la pantalla se puede visualizar la opción de **Productos** -> **Crear Producto**
+Para completar esta tarea, vamos a la opción **Productos** y luego **Crear Producto**
 {% include image.html img="../docs/primeros-pasos/nuevo-producto-1.jpg" alt="Alt for image" caption="Pantalla de Merchant Central" %}
-{% include alert.html style="warning" text="💡 Recuerda que la marca que desees asignar al producto, ya debe existir" %}
-Ingresar el nombre y la descripción del producto, opcionalmente puede seleccionar si el producto tiene múltiples variaciones, y finalmente click en el botón **Guardar**
+Aqui debemos ingresar el *Nombre* y la *Descripción* del producto, tambien debemos seleccionar la *Marca* que ya hemos [registrado](), opcionalmente puedes seleccionar si el producto tiene múltiples variaciones, y finalmente click en el botón **Guardar**
 {% include image.html img="../docs/primeros-pasos/nuevo-producto-2.jpg" alt="Alt for image" caption="Sección de pantalla" %}
 
 
 ## Completar datos del producto
 Una vez registrado el producto, procedemos a completar algunos datos mediante la opcion de **Edición**
 {% include image.html img="../docs/primeros-pasos/nuevo-producto-8.jpg" alt="Alt for image" caption="Listado de productos" %}
-{% include alert.html style="warning" text="💡 Recuerda que la categoria que desees asignar al producto, ya debe existir" %}
-Aqui aparecere un listado con las categorias disponibles, procedemos a seleccionar y dar click en la opcion **Añadir**
+Aqui aparecere un listado de las categorias que hayamos [registrado](), procedemos a seleccionar alguna y dar click en la opcion **Añadir**
 {% include image.html img="../docs/primeros-pasos/nuevo-producto-3.jpg" alt="Alt for image" caption="Edición de producto" %}
 Seleccionamos una imagen para el nuevo producto
 {% include image.html img="../docs/primeros-pasos/nuevo-producto-4.jpg" alt="Alt for image" caption="Edición de producto" %}

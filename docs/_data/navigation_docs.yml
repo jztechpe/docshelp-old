@@ -1,6 +1,6 @@
 - title: Primeros pasos
   docs:
-  - primeros-pasos/login
+  - primeros-pasos/iniciar-sesion
   - primeros-pasos/nueva-marca      
   - primeros-pasos/nueva-categoria
   - primeros-pasos/nuevo-producto
@@ -13,3 +13,26 @@
   - avanzado/consulta-de-clientes
   - avanzado/estado-de-operaciones-masivas
   - avanzado/cupones
+  - avanzado/carpeta-medios  
+  - avanzado/crear-cupon
+  - avanzado/proveedores
+  - avanzado/crear-subcategoría
+  - avanzado/crear-tienda
+  - avanzado/crear-transportista
+  - avanzado/cupones-historial-de-usos
+  - avanzado/historial-buscar-por-correo-electronico
+  - avanzado/historial-buscar-por-el-asunto-del-mensaje
+  - avanzado/pedidos-activos-confirmados
+  - avanzado/pedidos-activos-en-transito
+  - avanzado/pedidos-activos-listos-para-despacho
+  - avanzado/pedidos-activos-últimos-entregados
+  - avanzado/pedidos-buscar-nro-orden
+  - avanzado/pedidos-buscar-por-el-estado-de-pedido
+  - avanzado/pedidos-finalizados-cancelados
+  - avanzado/pedidos-finalizados-entregados
+  - avanzado/plantilla-agregar-plantilla
+  - avanzado/tipo-de-cambio
+- title: Roles
+  docs:
+  - roles/roles-merchant
+  - roles/roles-site
