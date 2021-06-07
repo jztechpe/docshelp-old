@@ -25,6 +25,22 @@ Then execute this:
 ```
 bundle exec jekyll s --livereload
 ```
+**if the console show an error like this:** "Unable to load the EventMachine C extension; To use the pure-ruby reactor, require 'em/pure_ruby'"
+run 
+```
+gem uninstall eventmachine
+```
+```
+gem install eventmachine --platform ruby"
+```
+
+Open C:\Ruby27-x64\lib\ruby\gems\2.7.0\gems\eventmachine-1.2.7-x64-mingw32\lib\eventmachine.rb
+
+Insert 
+```
+require 'em/pure_ruby' if not defined?(EventMachine) 
+```
+at the top of the file
 
 (based on https://jekyll-theme-docs.netlify.app/docs/development)
 
