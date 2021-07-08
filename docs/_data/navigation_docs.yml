@@ -1,30 +1,82 @@
-- title: Primeros pasos
+- title: General
   docs:
-  - primeros-pasos/iniciar-sesion
-  - primeros-pasos/nueva-marca      
+  - general/nosotros
+  - general/nuestros-productos
+  - general/glosario
+  - general/roles-merchant
+  - general/roles-site
+# - title: Como crear mi Sitio Web?
+#   docs:
+#   - site-onboarding/crear-site
+#   - site-onboarding/asignar-dominio
+#   - site-onboarding/crear-superadmin
+#   - site-onboarding/configuraciones-iniciales
+#   - site-onboarding/crear-cliente-interactive
+- title: Primeros pasos para iniciar el singleplace
+  docs:
+  - primeros-pasos/iniciar-sesion-site
+  - primeros-pasos/modificar-site
+  - primeros-pasos/crear-equipo
+  - primeros-pasos/asignar-lista-destinatarios # solo si es singleplace
+  - primeros-pasos/nueva-proveedor-de-pago
+  - primeros-pasos/nueva-opcion-de-pago
+  - primeros-pasos/iniciar-tamano-envios
+  - primeros-pasos/crear-cobertura
+  - primeros-pasos/crear-transportista  # si no es flota propia
+  - primeros-pasos/crear-plantillas-email
+  - primeros-pasos/crear-plantillas-web
+  - primeros-pasos/subir-carpeta-medios
+  - primeros-pasos/nueva-marca
   - primeros-pasos/nueva-categoria
+  - primeros-pasos/nuevo-almacen
   - primeros-pasos/nuevo-producto
   - primeros-pasos/nuevo-pedido
-- title: Avanzado
+  - primeros-pasos/asignar-herramienta-seguimiento
+- title: Primeros pasos para iniciar el marketplace
   docs:
-  - avanzado/crear-usuario
-  - avanzado/crear-tienda
-  - avanzado/operaciones-masivas
-  - avanzado/consulta-de-clientes
-  - avanzado/estado-de-operaciones-masivas
-  - avanzado/cupones
-  - avanzado/carpeta-medios  
-  - avanzado/crear-cupon
-  - avanzado/proveedores
-  - avanzado/crear-subcategoría
-  - avanzado/crear-tienda
-  - avanzado/crear-transportista
-  - avanzado/cupones-historial-de-usos
-  - avanzado/historial-buscar-por-correo-electronico
-  - avanzado/historial-buscar-por-el-asunto-del-mensaje
-  - avanzado/plantilla-agregar-plantilla
-  - avanzado/tipo-de-cambio
-- title: Roles
+  - primeros-pasos/iniciar-sesion-site
+  - primeros-pasos/modificar-site
+  - primeros-pasos/crear-equipo
+  - primeros-pasos/nuevo-proveedor-de-pago
+  - primeros-pasos/nueva-opcion-de-pago
+  - primeros-pasos/nuevo-proveedor-de-email
+  - primeros-pasos/iniciar-tamano-envios
+  - primeros-pasos/crear-cobertura
+  - primeros-pasos/crear-transportista  # si no es flota propia
+  - primeros-pasos/crear-plantillas-email
+  - primeros-pasos/crear-plantillas-web
+  - primeros-pasos/subir-carpeta-medios
+  - primeros-pasos/nueva-marca
+  - primeros-pasos/nueva-categoria
+  - primeros-pasos/asignar-herramienta-seguimiento
+- title: Temas
   docs:
-  - roles/roles-merchant
-  - roles/roles-site
+  - temas/catalogo/categoria-producto
+  - temas/catalogo/marca
+  - temas/catalogo/producto
+  - temas/cms/carpeta-medios
+  - temas/cms/data-jerarquica
+  - temas/envios/cobertura
+  - temas/envios/geolocalizacion
+  - temas/envios/tamanos-envio
+  - temas/envios/transportista
+  - temas/envios/transportista-preferido
+  - temas/integraciones/integracion-cliente
+  - temas/integraciones/integracion-subscripcion
+  - temas/merchant/almacen
+  - temas/merchant/merchant
+  - temas/merchant/tienda
+  - temas/notificaciones/historial-notificacion
+  - temas/notificaciones/lista-notificacion
+  - temas/notificaciones/plantilla-notificacion
+  - temas/notificaciones/proveedor-notificacion
+  - temas/operaciones-masivas
+  - temas/ordenes/cliente
+  - temas/ordenes/cupon
+  - temas/ordenes/orden-disputa
+  - temas/ordenes/orden-venta
+  - temas/pagos/opcion-pago
+  - temas/pagos/proveedor-pago
+  - temas/pagos/tipo-de-cambio
+  - temas/seguridad/equipo
+  - temas/sitecentral
