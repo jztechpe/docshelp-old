@@ -1,7 +1,7 @@
 ---
-title: Theme installation
-subtitle: This document covers the setup and options of theme feature described in the doc title
+title: Inicio de la documentacion
+subtitle: Este es el inicio de la documentacion de nuestra plataforma
 author: sara
-tags: [setup]
+tags: []
 ---
 {% include slideshow.html gallery="slideshow-1" %}
