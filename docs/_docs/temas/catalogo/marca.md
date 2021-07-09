@@ -33,6 +33,8 @@ Cuando la marca se crea, los siguientes campos son automaticamente asignados:
 
 Si se desea que estos campos tengan otros valores, se utiliza la opcion de modificar la marca.
 
+**Roles permitidos**: `sitecatalog`, `sitesale`, `sitecms`
+
 ## Modificar marca
 En SiteCentral, para modificar una marca, el primer paso es buscarla a traves del nombre. Una vez ubicada, utilizar el boton de `Modificar Marca`.
 
@@ -42,9 +44,13 @@ Los siguientes campos si se pueden modificar:
 - Habilitar para busqueda
 - Alias
 
+**Roles permitidos**: `sitecatalog`, `sitesale`, `sitecms`
+
 ## Eliminar marca (aun por implementarse)
 En SiteCentral, para eliminar una marca, el primer paso es buscarla a traves del nombre. Una vez ubicada, utilizar el boton de `Modificar Marca`. Dentro de esta pantalla, utilizar el boton `Eliminar Marca`.
 
 Para poder eliminar una marca, las siguientes condiciones deben cumplirse:
 - La marca no debe estar asociada a ningun producto, sin importar si esta activo o no.
 - La marca debe estar deshabilitada para la busqueda.
+
+**Roles permitidos**: `sitecatalogadmin`
