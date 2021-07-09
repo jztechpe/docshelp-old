@@ -105,8 +105,8 @@ Los siguientes campos si se pueden modificar:
 - Habilitar para busqueda
 - Contenido para adultos
 
-## Borrar categoria (aun por implementarse)
-En SiteCentral, para modificar una categoria, el primer paso es buscarla a traves del codigo o del nombre. Una vez ubicada, utilizar el boton de `Modificar Categoria`. Dentro de esta pantalla, utilizar el boton `Eliminar Categoria`.
+## Eliminar categoria (aun por implementarse)
+En SiteCentral, para eliminar una categoria, el primer paso es buscarla a traves del codigo o del nombre. Una vez ubicada, utilizar el boton de `Modificar Categoria`. Dentro de esta pantalla, utilizar el boton `Eliminar Categoria`.
 
 Para poder eliminar una categoria, las siguientes condiciones deben cumplirse:
 - Solo se puede eliminar categorias hoja. Si se quiere eliminar una categoria raiz o una categoria que este en los niveles intermedios, entonces se debe primero eliminar las categorias hoja y asi ir subiendo de nivel.
