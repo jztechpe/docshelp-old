@@ -96,6 +96,8 @@ Cuando la categoria se crea, los siguientes campos son automaticamente asignados
 
 Si se desea que estos campos tengan otros valores, se utiliza la opcion de modificar la categoria.
 
+**Roles permitidos**: `sitecatalog`.
+
 ## Modificar categoria
 En SiteCentral, para modificar una categoria, el primer paso es buscarla a traves del codigo o del nombre. Una vez ubicada, utilizar el boton de `Modificar Categoria`.
 
@@ -105,6 +107,8 @@ Los siguientes campos si se pueden modificar:
 - Habilitar para busqueda
 - Contenido para adultos
 
+**Roles permitidos**: `sitecatalog`.
+
 ## Eliminar categoria (aun por implementarse)
 En SiteCentral, para eliminar una categoria, el primer paso es buscarla a traves del codigo o del nombre. Una vez ubicada, utilizar el boton de `Modificar Categoria`. Dentro de esta pantalla, utilizar el boton `Eliminar Categoria`.
 
@@ -112,3 +116,5 @@ Para poder eliminar una categoria, las siguientes condiciones deben cumplirse:
 - Solo se puede eliminar categorias hoja. Si se quiere eliminar una categoria raiz o una categoria que este en los niveles intermedios, entonces se debe primero eliminar las categorias hoja y asi ir subiendo de nivel.
 - La categoria no debe estar asociada a ningun producto, sin importar si esta activo o no.
 - La categoria debe estar deshabilitada para la busqueda.
+
+**Roles permitidos**: `sitecatalogadmin`.
