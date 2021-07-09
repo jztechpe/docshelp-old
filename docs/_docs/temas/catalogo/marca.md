@@ -23,7 +23,7 @@ Una marca tiene los siguientes campos:
 - **Alias**: Una marca se le puede asignar un maximo de cinco alias que en el uso cotidiano son sinonimos de la marca. Por ejemplo: Coca Cola y Coke o HP y Hewlett-Packard. No pueden repetirse ni dentro de la misma marca, ni a traves de todas las marcas registradas. Un alias no puede ser tampoco igual al nombre de la marca.
 
 ## Asignacion a productos
-Un producto puede tener asignado una marca solamente.
+La marca se asigna al producto en el momento de la creacion del producto. Una vez que el producto es creado, la marca ya no se puede cambiar.
 
 ## Crear marca
 En SiteCentral, para crear una marca se debe utilizar el boton `Crear Marca` y se debe asignar el nombre de la nueva marca.
