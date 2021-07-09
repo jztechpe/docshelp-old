@@ -7,7 +7,6 @@ author: katlimruiz
 
 La marca del producto es el nombre o seudonimo comercial de la empresa productora del mismo.
 
-```
 ## Segun tipo de sitio
 En general, el equipo del sitio es dueño de las marcas de producto y se encarga de crearlas, modificarlas y eliminarlas. De esta manera, el sitio mantiene un catalogo de marcas consistente.
 
