@@ -123,6 +123,8 @@ Todo esto es con el fin de que la categorizacion de productos se haga de manera 
 ### Imagenes de Producto
 Un producto puede tener dos niveles de imagenes. El primero es a nivel de producto donde las imagenes son consideradas como representativas de todo el producto (aun cuando las variaciones pueden tener imagenes).
 
+Las imagenes a nivel de variacion son para mostrar como se ve esa variacion exactamente, y permiten, por ejemplo, ser usadas como selector de la variacion en la pagina de producto.
+
 Las imagenes (de los dos niveles) tienen las siguientes restricciones/consideraciones:
 - Las imagenes deben tener forma cuadrada (ancho y alto igual).
 - Las imagenes deben considerar un fondo blanco (recomendado).
