@@ -12,7 +12,7 @@ Es la unidad de informacion base para muchas de las funciones dentro de la plata
 ## Segun el tipo de sitio
 Si el tipo del site es `singleplace`, el equipo del sitio es el encargado de crear, modificar y eliminar los productos y de en general mantener el catalogo actualizado y limpio.
 
-Todos los productos siempre estan asociados a un merchant y a una tienda. En el caso del `singleplace`, este concepto aun sigue existiendo con un solo merchant y una sola tienda.
+Todos los productos siempre estan asociados a un merchant y a una tienda. En el caso del `singleplace`, este concepto aun sigue existiendo con un solo merchant y una sola tienda administrados por el mismo equipo del sitio.
 
 Si el tipo del site es `marketplace`, se espera que el merchant se encargue de su propio catalogo con el apoyo del equipo del sitio (que esta a cargo de las marcas y las categorias).
 
