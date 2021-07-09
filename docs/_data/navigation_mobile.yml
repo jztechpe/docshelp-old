@@ -1,17 +1,17 @@
 # Mobile menu navigation links
 
-- title: Home
+- title: Inicio
   url: /
 
-- title: Docs
-  url: /docs/installation/
+- title: Documentación
+  url: /docs/intro
 
-- title: Blog
-  url: /blog/
+# - title: Blog
+#   url: /blog/
 
-- title: Changelog
-  url: /changelog-timeline/
+# - title: Changelog
+#   url: /changelog-timeline/
 
-- title: Contact
+- title: Contactanos
   url: /contact/
   button: success
