@@ -20,7 +20,7 @@ IMPORTANTE: Es responsabilidad del vendedor del producto de tener los permisos n
 Una marca tiene los siguientes campos:
 - **Nombre**: Este es el nombre de la marca. Permite estos caracteres [A-z0-9Á-ú&\-@' ] y hasta maximo 50 caracteres. No puede repetirse.
 - **Habilitar para busqueda**: Este campo permite marcar una marca para que pueda ser buscada o no. Este campo NO significa que si esta desactivado, todos los productos relacionados se oculten de la busqueda. Esto se utiliza solamente cuando la interface de usuario del sitio ha habilitado la busqueda de nombres de marca en su barra de busqueda (este es uno de sus tipicos usos).
-- **Alias**: Una marca se le puede asignar un maximo de cinco alias que en el uso cotidiano son sinonimos de la marca. Por ejemplo: Coca Cola y Coke o HP y Hewlett-Packard. No pueden repetirse ni dentro de la misma marca, ni a traves de todas las marcas registradas. Un alias no puede ser tampoco igual al nombre de la marca.
+- **Alias**: Una marca se le puede asignar un maximo de cinco alias que en el uso cotidiano son sinonimos de la marca. Por ejemplo: Coca Cola y Coke o HP y Hewlett-Packard. No pueden repetirse ni dentro de la misma marca, ni a traves de todas las marcas registradas. Un alias no puede ser tampoco igual al nombre de la marca. Un alias puede tener estos caracteres [A-z0-9Á-ú&\-@' ].
 
 ## Asignacion a productos
 La marca se asigna al producto en el momento de la creacion del producto. Una vez que el producto es creado, la marca ya no se puede cambiar.
