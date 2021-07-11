@@ -1,15 +1,34 @@
 ---
-title: Carpeta de medios 
-subtitle: 
-tags: [carpeta de medios]
-author: Maricielo
+title: Carpeta de medios
+subtitle: La carpeta de medios le permite al equipo del sitio y al equipo del merchant subir imagenes y otros archivos para ser usados en la presentacion del sitio o de la tienda.
+tags: [carpeta de medios, tienda, sitio, cms]
+author: katlimruiz
 ---
 
-## Carpeta de medios 
-Podrás visualizar la opción **Carpetas de medios**, al cual darás clic.
-En esta sección, podrás subir archivos (como máximo 100 imágenes). 
-{% include image.html img="../docs/avanzado/carpeta-medios-1.png" alt="Alt for image" caption="xxx" %}
+La carpeta de medios es utilizada para poder guardar archivos de media (imagenes, videos) o de otro tipo (pdf, xls, zip) que seran utilizados para distintas actividades del sitio, especialmente para su presentacion (por ejemplo, home page o paginas informativas).
 
-Opcionalmente, estarás habilitado para eliminar imágenes, haciendo clic en “Retirar” y se mostrará un modal con el mensaje “Antes de eliminar este archivo verifique que no se encuentre en uso”. 
-Así que, ten cuidado al momento de seleccionar la imagen que vas a suprimir, porque no habrá modo de recuperla.
-{% include image.html img="../docs/avanzado/carpeta-medios-2.png" alt="Alt for image" caption="xxx" %}
+Cuando el sitio es del tipo `singleplace`, el equipo del sitio es el encargado de subir y eliminar los archivos dentro de la carpeta de medios.
+
+Cuando el sitio es del tipo `marketplace`, la carpeta de medios esta disponible a nivel del site y ademas tambien esta al nivel del tienda para que el equipo del merchant pueda utilizar dichos archivos en la presentacion de su tienda.
+
+## Subir un archivo
+En SiteCentral, al abrir la opcion de Carpeta de Medios, aparecera la carpeta principal donde estan guardados todos los archivos actuales.
+
+La plataforma solamente soporta un solo nivel para todos los archivos (en el futuro, se soportaran carpetas) y solo aceptamos como maximo 100 archivos.
+
+Las extensiones permitidas son: jpg, jpeg, png, bmp, gif, mpg, pdf, xls, xlsx, doc, docx, zip.
+
+## Visualizar un archivo
+Dentro de la opcion de la carpeta de medios, todos los archivos que son considerados imagenes se muestran directamente. Al seleccionar un archivo, se puede abrir una ventana nueva para verlo en pantalla completa.
+
+## Como usar el archivo?
+Una vez subido el archivo, queda saber como es que lo puedes usar o leer. Si, por ejemplo, deseas subir un archivo de pdf con instrucciones y luego mostrar un link a este archivo en la pagina de terminos y condiciones, lo unico que necesitas es extraer la ruta publica a ese archivo dentro del media library.
+
+Para hacer eso, ir a la opcion de Carpeta de Medios, ubicar el archivo requerido, y escoger la opcion "Copiar enlace". Esto copiara el enlace al portapapeles y con eso podras utilizarlo en donde sea necesario.
+
+Por otro lado, la plataforma permite utilizar un componente llamado Paginas Dinamicas, donde uno puede crear carruseles de imagenes o grillas de imagenes y en estas, se piden urls a imagenes para mostrarlas. Es alli donde se insertan las urls directamente de la carpeta de medios.
+
+## Eliminar un archivo
+Para poder eliminar un archivo solo es necesario ubicarlo dentro de la carpeta de medios, seleccionarlo y escoger la opcion Eliminar archivo.
+
+Es recomendable mantener la carpeta de medios con archivos vigentes dado que recuerda que solo tienes maximo lugar para 100 archivos.
