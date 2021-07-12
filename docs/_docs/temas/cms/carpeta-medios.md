@@ -18,6 +18,10 @@ La plataforma solamente soporta un solo nivel para todos los archivos (en el fut
 
 Las extensiones permitidas son: jpg, jpeg, png, bmp, gif, mpg, pdf, xls, xlsx, doc, docx, zip.
 
+En cuanto a las imagenes, en este caso no esta limitado ni a un tamano o medidas especificas. El usuario es responsable de proveer un archivo adecuado para el uso que se le va a dar.
+
+Por ejemplo, si es que se esta subiendo un banner para la pantalla de Home, tipicamente, un banner debe tener las medidas exactas requeridas para evitar que pese demasiado innecesariamente (no tendria sentido tener un banner de 2048x300 si es que se mostrara en un espacio de maximo 1024x300).
+
 ## Opciones de la carpeta de medios
 Dentro de la opcion de la carpeta de medios, todos los archivos que son considerados imagenes se muestran en miniatura. Al seleccionar un archivo, se puede abrir una ventana nueva para verlo en pantalla completa o copiar el enlace directo hacia la imagen.
 
