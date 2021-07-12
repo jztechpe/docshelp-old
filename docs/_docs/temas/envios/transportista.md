@@ -34,5 +34,5 @@ En SiteCentral, ingresar a la opcion de Transportistas, y utilizar el boton `Cre
 ## Modificar transportista
 En SiteCentral, ingresar a la opcion de Transportistas, y buscar el transportista por su nombre. Una vez encontrado, utilizar el boton `Modificar Transportista` para ingresar a esa opcion.
 
-## Crear transportista
+## Eliminar transportista
 En SiteCentral, ingresar a la opcion de Transportistas, y buscar el transportista por su nombre. Una vez encontrado, utilizar el boton `Modificar Transportista` para ingresar a esa opcion. Una vez dentro, seleccionar el boton `Eliminar`.
