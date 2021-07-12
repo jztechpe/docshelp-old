@@ -36,7 +36,7 @@ El peso total de todo esto seria `SUM(Item.PqPesoKg * Item.Cantidad)` = `2.7kg`.
 El volumen total seria `SUM(Item.PqLargoCms * Item.PqAnchoCms * Item.PqAltoCms * Item.Cantidad)` = `81,000 + 108,000 + 54,000 = 243,000cm3`.
 
 Y los tamaños podrian estar configurados asi:
-![Tamaños de envio](./tamano-envio1.png)
+![Tamaños de envio](../docs/temas/envios/tamano-envio1.png)
 
 Entonces, la plataforma verificará desde el primer tamaño habilitado (`XXS`, `XS`...):
 - Condición 1: si es que el volumen total y el peso maximo estan dentro de los maximos de ese nivel.
