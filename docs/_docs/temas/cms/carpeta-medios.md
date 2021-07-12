@@ -9,7 +9,7 @@ La carpeta de medios es utilizada para poder guardar archivos de media (imagenes
 
 Cuando el sitio es del tipo `singleplace`, el equipo del sitio es el encargado de subir y eliminar los archivos dentro de la carpeta de medios.
 
-Cuando el sitio es del tipo `marketplace`, la carpeta de medios esta disponible a nivel del sitio (para las paginas propias del nivel del sitio) y ademas, esta al nivel del tienda para que el equipo del merchant pueda utilizar dichos archivos en la presentacion de su tienda.
+Cuando el sitio es del tipo `marketplace`, la carpeta de medios esta disponible a nivel del sitio (para las paginas propias del nivel del sitio) y ademas, esta al nivel del tienda para que el equipo del merchant pueda utilizar dichos archivos en la presentacion de su propia tienda. La carpeta de un merchant esta completamente aislada de otro merchant.
 
 ## Subir un archivo
 En SiteCentral, al abrir la opcion de Carpeta de Medios, aparecera la carpeta principal donde estan guardados todos los archivos actuales.
