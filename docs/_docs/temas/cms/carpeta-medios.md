@@ -23,9 +23,6 @@ Dentro de la opcion de la carpeta de medios, todos los archivos que son consider
 
 Adicionalmente, se encuentra la opcion de eliminar un archivo de la carpeta de medios. El usuario que lo elimina debe ser responsable de cambiar los enlaces a este archivo dado que no hay forma de que la carpeta de medios sepa donde se utiliza ese enlace.
 
-## Eliminar un archivo
-
-
 ## Como usar el archivo?
 Una vez subido el archivo, desde la pantalla de carpeta de medios, se puede obtener su url de lectura para que se pueda utilizar donde se necesite.
 
