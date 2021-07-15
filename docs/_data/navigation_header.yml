@@ -1,34 +1,34 @@
 # Navbar left menu navigation links
 
 left:
-  - title: Home
+  - title: Inicio
     url: /
 
-  - title: Docs
+  - title: Documentación
     url: /docs/intro/
 
-  - title: Blog
-    url: /blog/
+  # - title: Blog
+  #   url: /blog/
 
-  - title: Changelogs
-    dropdown:
+  # - title: Changelogs
+  #   dropdown:
 
-      - title: Timeline Style
-        url: /changelog-timeline/
+  #     - title: Timeline Style
+  #       url: /changelog-timeline/
 
-      - title: Post Style
-        url: /changelog-posts/
+  #     - title: Post Style
+  #       url: /changelog-posts/
 
 
 # Navbar right menu navigation links
 
 right:
 
-  - title: Changelog
-    url: /changelog-timeline/
-    button: primary-outline
+  # - title: Changelog
+  #   url: /changelog-timeline/
+  #   button: primary-outline
 
-  - title: Contact
+  - title: Contactanos
     url: /contact/
     button: success
 
