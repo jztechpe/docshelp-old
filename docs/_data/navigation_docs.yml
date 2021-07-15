@@ -15,10 +15,10 @@
 - title: Primeros pasos para iniciar el singleplace
   docs:
   - primeros-pasos/iniciar-sesion-site
-  - primeros-pasos/modificar-site
-  - primeros-pasos/crear-equipo
+#  - primeros-pasos/modificar-site 
+  - temas/seguridad/crear-equipo
   - primeros-pasos/asignar-lista-destinatarios # solo si es singleplace
-  - primeros-pasos/nueva-proveedor-de-pago
+  - primeros-pasos/nuevo-proveedor-de-pago
   - primeros-pasos/nueva-opcion-de-pago
   - primeros-pasos/iniciar-tamano-envios
   - primeros-pasos/crear-cobertura
