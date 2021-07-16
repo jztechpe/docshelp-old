@@ -1,10 +1,17 @@
 ---
 title: Configuración de categorias
 subtitle: Crear, editar y buscar
-tags: [crear_tienda]
+tags: [configuracion_categoria,tema_categoria_producto]
 author: ivan
 ---
 {% include alert.html style="success" text="⚠️ Es importante registrar la categoria porque luego te permitira registrar tus productos" %}
+
+## ¿Qué es una categoría?
+Una categoria de producto es una agrupación de productos con caracteristicas y/o beneficios similares. Algunos ejemplos: Moda Hombres, Zapatos, Zapatillas, Electrodomesticos, Videojuegos, etc.
+
+Las categorias de producto pueden ser organizadas en una estructura jerarquica (llamado arbol de categorias) donde una categoria padre puede contener muchas categorias hijas.
+
+> Si quieres saber mas, sigue el *[tema de categorías](https://jztechpe.github.io/docshelp/docs/temas/catalogo/categoria/)*
 
 ## Registro 
 

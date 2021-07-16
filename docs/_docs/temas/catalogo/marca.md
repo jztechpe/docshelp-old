@@ -1,7 +1,7 @@
 ---
 title: Marcas de Producto
 subtitle: La marca del producto es el nombre o seudonimo comercial de la empresa productora del mismo.
-tags: [catalogo, producto, marca]
+tags: [catalogo, tema_marca_producto]
 author: katlimruiz
 ---
 

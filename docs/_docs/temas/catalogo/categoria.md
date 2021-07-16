@@ -1,7 +1,7 @@
 ---
 title: Categorias de Producto
 subtitle: Una categoria de producto es una agrupación de productos con caracteristicas y/o beneficios similares.
-tags: [catalogo, producto, categoria]
+tags: [catalogo, tema_categoria_producto]
 author: katlimruiz
 ---
 
