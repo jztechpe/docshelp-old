@@ -1,7 +1,15 @@
 ---
-title: Inicio de la documentacion
-subtitle: Este es el inicio de la documentacion de nuestra plataforma
-author: sara
-tags: []
+title: Introducción a la documentación
+subtitle: ¡Iniciemos!
+author: Luis Zumaeta
+tags: [general]
 ---
-{% include slideshow.html gallery="slideshow-1" %}
+La documentación se divide en 4 secciones:
+## **General**
+Sección dedicada a la información general y principal para entender nuestra plataforma.
+## **Primeros Pasos SinglePlace**
+Sección dedicada a la introducción y proceso de gestión inicial para los SiteOwners con producto de Singleplace.
+## **Primeros Pasos MarketPlace**
+Sección dedicada a la introducción y proceso de gestión inicial para los SiteOwners con producto de Marketplace.
+## **Temas**
+Sección dedicada a profundizar cada módulo de la plataforma con el fin de entender casuísticas y/o explicaciones adicionales.

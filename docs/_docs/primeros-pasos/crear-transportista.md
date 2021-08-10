@@ -15,3 +15,4 @@ Para crear el transportista, vamos a la opción **“Transportista”** y luego 
 {% include image.html img="../docs/primeros-pasos/crear-transportista-1.png" alt="Alt for image" caption="Pantalla de Merchant Central" %}
 Debemos completar los datos obligatorios como el nombre del transportista, identificador legal y nombre legal, finalmente damos click en el boton **Guardar**
 {% include image.html img="../docs/primeros-pasos/crear-transportista-2.png" alt="Alt for image" caption="Pantalla de Merchant Central" %}
+A continuación podremos ver el transportista registrado en la bandeja inicial.
