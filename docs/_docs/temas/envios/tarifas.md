@@ -57,6 +57,7 @@ Tal vez querramos segmentar por tamaños y por ticket de compra:
 | XL, XXL | - | - | $ |
 
 Tal vez querramos que nuestros precios sean flat:
+
 |Tamaño | Subtotal desde | Subtotal Hasta | Precio |
 |---|---|---|---|
 | - | - | - | $15 |
