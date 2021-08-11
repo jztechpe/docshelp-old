@@ -56,12 +56,13 @@
   - temas/catalogo/producto
   - temas/cms/carpeta-medios
   - temas/cms/data-jerarquica
-  - temas/envios/cobertura
+  - temas/envios/coberturas
+  - temas/envios/metodos-de-envio
+  - temas/envios/tarifas
   - temas/envios/geolocalizacion
   - temas/envios/tamanos-envio
   - temas/envios/transportista
   - temas/envios/transportista-seleccion
-  - temas/envios/tamano-envio
   - temas/envios/transportista-preferido
   - temas/integraciones/integracion-cliente
   - temas/integraciones/integracion-subscripcion
