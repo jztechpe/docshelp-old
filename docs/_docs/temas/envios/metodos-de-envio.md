@@ -1,5 +1,5 @@
 ---
-title: Metodos de envío
+title: Métodos de envío
 subtitle: Los métodos de envío nos permiten diferenciar los tiempos y formatos de entrega hacia nuestros clientes.
 tags: [envios,cobertura,tarifas]
 author: Luis Zumaeta
