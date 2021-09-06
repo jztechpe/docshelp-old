@@ -28,7 +28,9 @@ Una vez creada la zona, es posible:
 
 Ejemplo de como usar **Zonas** con varios polígonos:
 
-`Digamos que nuestra cobertura son zonas Urbanas cuya posición geográfica son polos opuestos. POdríamos poner un polígono en el extremos A y otro polígono en el extremo B. De esta manera representan 1 misma zona apesar de estar separados por 2 polígonos.`
+`Digamos que nuestra cobertura son zonas Urbanas cuya posición geográfica son polos opuestos.`
+`Podríamos poner un polígono en el extremos A y otro polígono en el extremo B.`
+`De esta manera representan 1 misma zona apesar de estar separados por 2 polígonos.`
 
 ## Polígonos
 
