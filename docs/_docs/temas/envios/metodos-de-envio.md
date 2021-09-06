@@ -20,7 +20,7 @@ Los métodos de envíos disponibles en la plataforma son:
 Es el método de envío más convencional donde el tiempo de entrega no está comprometido explícitamente en el nombre del método.
 
 Por ejemplo:
-`Un usuario puede realizar la compra de un producto hoy y la fecha de entrega dependerá del tiempo de despacho, el destino y tamaño del producto.`
+`Si se realiza la compra de un producto hoy. La fecha de entrega dependerá del tiempo de despacho, el destino y tamaño del producto.`
 `Esto podría significar N días para la entrega.`
 
 ## Next-day
