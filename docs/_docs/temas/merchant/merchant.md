@@ -25,3 +25,9 @@ Un merchant tiene los siguientes campos:
 - **Nombre de Persona de Operaciones**: Nombre completo de la persona encargada o representante principal de operaciones (envios y post-venta principalmente) del merchant dentro del marketplace o dentro del sitio (para singleplace).
 - **Correo electronico de Persona de Operaciones**: correo electronico de la persona de operaciones.
 - **Telefono de Persona de Operaciones**: telefono fijo o celular de la persona de operaciones.
+
+Por último, los **merchants** suelen tener entidades importantes como las **tiendas** y **almacenes** que permiten su total funcionamiento. Por ejemplo:
+
+- `1 Merchant - 1 tienda - N Almacenes`
+- `1 Merchant - N tiendas - 1 Almacén`
+- `1 Merchant - N Tiendas - N Almacenes`
