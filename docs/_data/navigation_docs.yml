@@ -77,7 +77,8 @@
   - temas/ordenes/cliente
   - temas/ordenes/cupon
   - temas/ordenes/orden-disputa
-  - temas/ordenes/orden-venta
+  - temas/ordenes/orden-pedidos-activos
+  - temas/ordenes/orden-pedidos-finalizados
   - temas/pagos/opcion-pago
   - temas/pagos/proveedor-pago
   - temas/pagos/tipo-de-cambio
