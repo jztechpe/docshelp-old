@@ -11,7 +11,7 @@ author: ivan
 
 ## ¿Que datos necesito?
 
-> **Dominio**. Es el nombre de tu sitio web, por ejemplo: mitienda.com
+> **Dominio**. Es el nombre de tu sitio web, por ejemplo: misitioweb.com
 > 
 > **Usuario**. Es el usuario con el que te dieron de alta en la plataforma.
 > 
