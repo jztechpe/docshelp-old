@@ -13,7 +13,7 @@ Todos los roles disponibles responden a una jerarquía. El Rol *MerchantAdmin* r
 ## Roles disponibles como Merchant/Seller:
 
 ### **MerchantAdmin:** 
-Es el dueño de la empresa o negocio Merchant/Seller.
+Es el dueño o administrador responsable de la empresa o negocio Merchant/Seller.
 
 Este usuario posee todos los permisos para la configuración de una tienda. Puede realizar todas las funcionalidades de los otros roles. 
 
@@ -52,6 +52,7 @@ Las principales funciones que posee son:
 - Modificar el stock de cada producto del catálogo.
 - Gestionar pedidos.
 
+## Combinación de roles
 
 Los roles pueden ser sleecionados en `combo`, eso quiere decir que un usuario puede tener muchos roles asignados.
 
