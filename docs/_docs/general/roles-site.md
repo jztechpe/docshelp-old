@@ -165,6 +165,8 @@ Las principales funciones **adicionales** que posee son:
 - Descargar BD Merchants.
 - Descargar BD Tiendas.
 
+## Combinación de roles
+
 Los roles pueden ser sleecionados en `combo`, eso quiere decir que un usuario puede tener muchos roles asignados.
 
 Por ejemplo:
