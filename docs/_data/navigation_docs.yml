@@ -74,13 +74,10 @@
   - temas/envios/coberturas
   - temas/envios/metodos-de-envio
   - temas/envios/tarifas
-  - temas/envios/geolocalizacion
   - temas/envios/tamanos-envio
   - temas/envios/transportista
   - temas/envios/transportista-seleccion
   - temas/envios/transportista-preferido
-  - temas/integraciones/integracion-cliente
-  - temas/integraciones/integracion-subscripcion
   - temas/merchant/almacen
   - temas/merchant/merchant
   - temas/merchant/tienda
@@ -99,3 +96,5 @@
   - temas/pagos/tipo-de-cambio
   - temas/seguridad/equipo
   - temas/sitecentral
+  - temas/integraciones/integracion-cliente
+  - temas/integraciones/integracion-subscripcion
