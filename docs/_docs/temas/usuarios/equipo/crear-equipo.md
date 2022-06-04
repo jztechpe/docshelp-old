@@ -27,6 +27,6 @@ Si queremos buscar un usuario podemos hacerlo por su **Correo Electrónico** o s
 {% include image.html img="../docs/temas/usuarios/equipo/buscar-equipo-1.png" alt="Alt for image" caption="prueba" %}
 
 ## Descargar usuarios
-Si queremos descargar todos los usuarios tenemos una opcion **Iniciar descarga**.
+Si queremos descargar todos los usuarios, en formato Excel, tenemos una opcion **Iniciar descarga**.
 {% include image.html img="../docs/temas/usuarios/equipo/descarga-equipo-1.png" alt="Alt for image" caption="prueba" %}
 
