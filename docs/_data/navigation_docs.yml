@@ -16,13 +16,17 @@
   docs:
   - primeros-pasos/iniciar-sesion-site 
 #  - primeros-pasos/modificar-site 
-  - temas/seguridad/crear-equipo
+  - temas/usuarios/equipo/crear-equipo
   - primeros-pasos/asignar-lista-destinatarios # solo si es singleplace
   - primeros-pasos/nuevo-proveedor-de-pago
   - primeros-pasos/nueva-opcion-de-pago
-  - primeros-pasos/tamanio-envio
-  - primeros-pasos/crear-cobertura
-  - primeros-pasos/crear-transportista  # si no es flota propia
+  - temas/logistica/metodos_envio/metodos
+  - temas/logistica/coberturas_tarifas/coberturas
+  - temas/logistica/coberturas_tarifas/tarifas
+  - temas/logistica/tamanios_envios/envios
+  - temas/logistica/transportistas/transportista
+  - temas/logistica/transportistas/transportista-seleccion
+  - temas/logistica/asignacion/asignacion
   - primeros-pasos/crear-plantillas-email
   - primeros-pasos/crear-plantillas-web #
   - primeros-pasos/subir-carpeta-medios #
@@ -36,13 +40,18 @@
   docs:
   - primeros-pasos/iniciar-sesion-site
   - primeros-pasos/modificar-site
-  - temas/seguridad/crear-equipo
+  - temas/usuarios/equipo/crear-equipo
+  - temas/usuarios/clientes/ver-cliente
   - primeros-pasos/nuevo-proveedor-de-pago
   - primeros-pasos/nueva-opcion-de-pago
   - primeros-pasos/nuevo-proveedor-de-email
-  - primeros-pasos/iniciar-tamano-envios
-  - primeros-pasos/crear-cobertura
-  - primeros-pasos/crear-transportista  # si no es flota propia
+  - temas/logistica/metodos_envio/metodos
+  - temas/logistica/coberturas_tarifas/coberturas
+  - temas/logistica/coberturas_tarifas/tarifas
+  - temas/logistica/tamanios_envios/envios
+  - temas/logistica/transportistas/transportista
+  - temas/logistica/transportistas/transportista-seleccion
+  - temas/logistica/asignacion/asignacion
   - primeros-pasos/crear-plantillas-email
   - primeros-pasos/crear-plantillas-web
   - primeros-pasos/subir-carpeta-medios
@@ -52,7 +61,7 @@
 - title: Primeros pasos para iniciar Merchant/Seller
   docs:
   - primeros-pasos/iniciar-sesion-site
-  - temas/seguridad/crear-equipo
+  - temas/usuarios/equipo/crear-equipo
   - primeros-pasos/tienda #pendiente
   - primeros-pasos/dashboard
   - primeros-pasos/nuevo-producto
@@ -71,13 +80,15 @@
   - temas/catalogo/producto
   - temas/cms/carpeta-medios
   - temas/cms/data-jerarquica
-  - temas/envios/coberturas
-  - temas/envios/metodos-de-envio
-  - temas/envios/tarifas
-  - temas/envios/tamanos-envio
-  - temas/envios/transportista
-  - temas/envios/transportista-seleccion
-  - temas/envios/transportista-preferido
+  - temas/logistica/metodos_envio/metodos
+  - temas/logistica/coberturas_tarifas/coberturas
+  - temas/logistica/coberturas_tarifas/tarifas
+  - temas/logistica/tamanios_envios/envios
+  - temas/logistica/transportistas/transportista
+  - temas/logistica/transportistas/transportista-seleccion
+  - temas/logistica/asignacion/asignacion
+  # - temas/logistica/transportista-seleccion
+  # - temas/logistica/transportista-preferido
   - temas/merchant/almacen
   - temas/merchant/merchant
   - temas/merchant/tienda
@@ -94,7 +105,7 @@
   - temas/pagos/opcion-pago
   - temas/pagos/proveedor-pago
   - temas/pagos/tipo-de-cambio
-  - temas/seguridad/equipo
+  - temas/equipo/equipo
   - temas/sitecentral
   - temas/integraciones/integracion-cliente
   - temas/integraciones/integracion-subscripcion

@@ -6,27 +6,32 @@ author: Luis Zumaeta
 ---
 
 ## Tarifas
-
-La plataforma permite configurar 2 tarifas por cada método de envío.
+La plataforma permite configurar 2 tarifas por cada cobertura.
 
 Las tarifas están conformadas por un número ilimitado de rutas tarifarias.
 
 ## Rutas tarifarias
-
 Son todas las combinaciones posibles que se realizan entre zonas.
-
-Para crear una ruta tarifaria se requiere:
-
-- Selecccionar la tarifa a editar `Tarifa 1` o `Tarifa 2`.
-- Dar click "Crear ruta tarifaria".
-- Escoger la `Zona de origen`, `Zona de destino` y el tiempo de distribución entre ambas zonas.
 
 Las rutas tarifarias permiten realizar todas las combinaciones entre zonas para crear las condiciones necesarias del precio de envío.
 
 Cada ruta tarifaria puede contener infinitas condiciones especiales con la finalidad de ser altamente estratégico.
 
-### Condiciones especiales
+### Editar tarifa
+Para poder editar una tarifa, iremos al boton en la columna Acciones y vamos a **Editar tarifa**.
+{% include image.html img="../docs/temas/logistica/coberturas_tarifas/editar-tarifa-1.png" alt="Alt for image" caption="prueba" %}
 
+#### Crear ruta tarifaria
+Si queremos crear una **Ruta tarifaria**, daremos click al boton Ruta tarifaria
+{% include image.html img="../docs/temas/logistica/coberturas_tarifas/editar-tarifa-2.png" alt="Alt for image" caption="prueba" %}
+Seleccionamos la ruta de origen y destino, al igual que el plazo de entrega en horas.
+{% include image.html img="../docs/temas/logistica/coberturas_tarifas/editar-tarifa-3.png" alt="Alt for image" caption="prueba" %}
+
+#### Editar ruta tarifaria
+Una vez creada la ruta tarifaria, veremos los datos de la ruta creada, con un apartado donde podremos cambiar la zona de origin y destino, al igual que su plazo de entrega en horas.
+{% include image.html img="../docs/temas/logistica/coberturas_tarifas/editar-tarifa-4.png" alt="Alt for image" caption="prueba" %}
+
+### Condiciones especiales
 Las condiciones especiales están sujetas por:
 
 - Tamaño de envío.
@@ -68,8 +73,12 @@ Tal vez querramos que nuestros precios sean flat:
 |---|---|---|---|
 | XXS, XS, S, M, L, XL, XXL | - | - | $15 |
 
-
 Con estos ejemplos, es claro que podemos crear varias condiciones de precios de envío entre 2 zonas.
+
+#### Crear condiciones especiales
+Para crear una condicion especial en una ruta tarifaria, nos dirigiremos a "Agregar mas condiciones".
+{% include image.html img="../docs/temas/logistica/coberturas_tarifas/editar-tarifa-5.png" alt="Alt for image" caption="prueba" %}
+
 
 Por último, es muy importante recalcar que cualquier cambio para que se vea reflejado en la web, es necesario **"Pubicar coberturas"**
 

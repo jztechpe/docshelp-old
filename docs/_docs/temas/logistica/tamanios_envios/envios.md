@@ -2,7 +2,7 @@
 title: Tamaños de Envio
 subtitle: Todos los paquetes que se envian a los compradores son clasificados segun sus dimensiones y peso en una escala configurable de tamaños para que de esta manera se pueda homogeneizar los precios de envio.
 tags: [envios,transportista]
-author: katlimruiz
+author: joaquin
 ---
 
 Los tamaños de envio representan una escala configurable que permite clasificar los paquetes que son enviados a los compradores de manera homogenia y asi facilitar la configuracion y calculo de los precios de envio.
@@ -59,9 +59,11 @@ Un tamaño de envio tiene los siguientes campos:
 Cuando el sitio es creado, como parte del proceso de onboarding o de configuracion inicial, es responsabilidad del equipo del sitio crear los tamaños de envio. Para hacerlo, en SiteCentral, se ingresa a la opcion de `Tamaños de Envio`, donde si es que no hay ningun tamaño registrado, solo aparecerá el boton de `Crear Tamaños`. Al presionar el boton, la plataforma creará los siete tamaños con medidas por defecto. A partir de ahi, el equipo del sitio, decidira si cambia o no las medidas de cada tamaño.
 
 ## Modificar tamaño de envio
-En SiteCentral, en la opcion `Tamaños de Envio`, se mostraran los tamaños registrados y para modificar uno de ellos, se debe presionar el boton de `Modificar Tamaño de Envio`. Al presionarlo, aparece una ventana donde se puede modificar los campos ya mencionados antes.
+En SiteCentral, en la opcion `Tamaños de Envio`, se mostraran los tamaños registrados y para modificar uno de ellos, se debe presionar el boton que esta en la columna Acciones. Al presionarlo, aparece una ventana donde se puede modificar los campos ya mencionados antes.
+{% include image.html img="../docs/temas/logistica/tamanios_envios/envio.png" alt="Alt for image" caption="prueba" %}
 
 Dado que los tamaños siguen un orden ascendente y este orden no se puede cambiar, entonces las medidas maximas y peso maximo de un nivel siempre deben ser menores a la del nivel siguiente y mayores a la del nivel anterior.
+{% include image.html img="../docs/temas/logistica/tamanios_envios/editar-envio-1.png" alt="Alt for image" caption="prueba" %}
 
 ## Habilitacion de un tamaño de envio
 Cuando los tamaños de envio son creados, todos inician como habilitados.
@@ -112,3 +114,5 @@ XL  << habilitar 3
 Esto aumentaria la lista de `S, M` a `XS, S, M, L, XL`.
 
 Como regla de la plataforma, siempre de haber al menos un tamaño habilitado, y en el caso haya uno, ese seria entonces el valor por defecto.
+{% include image.html img="../docs/temas/logistica/tamanios_envios/editar-envio-2.png" alt="Alt for image" caption="prueba" %}
+

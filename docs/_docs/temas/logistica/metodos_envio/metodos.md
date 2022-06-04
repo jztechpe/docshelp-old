@@ -16,33 +16,38 @@ Los métodos de envíos disponibles en la plataforma son:
 - Express.
 
 ## Regular
-
 Es el método de envío más convencional donde el tiempo de entrega no está comprometido explícitamente en el nombre del método.
 
 Por ejemplo:
 `Si se realiza la compra de un producto hoy. La fecha de entrega dependerá del tiempo de despacho, el destino y tamaño del producto.`
 `Esto podría significar N días para la entrega.`
 
-## Next-day
+Cuando haga la configuracion del metodo de envio en la seccion de "Coberturas y tarifas", tendra los siguientes campos: 
+{% include image.html img="../docs/temas/logistica/metodos_envio/regular.png" alt="Alt for image" caption="prueba" %}
 
+## Next-day
 Es un método de envío donde el tiempo de entrega está comprometido explícitamente en el nombre del método.
 
 La promesa de entrega es al día siguiente.
+
+Cuando haga la configuracion del metodo de envio en la seccion de "Coberturas y tarifas", tendra los siguientes campos: 
+{% include image.html img="../docs/temas/logistica/metodos_envio/next-day.png" alt="Alt for image" caption="prueba" %}
 
 Por ejemplo:
 - `Un usuario realiza la compra el día de hoy y debería recibirlo máximo al día siguiente.`
 
 ## Same-day
-
 Es un método de envío donde el tiempo de entrega está comprometido explícitamente en el nombre del método.
 
 La promesa de entrega es el mismo día.
+
+Cuando haga la configuracion del metodo de envio en la seccion de "Coberturas y tarifas", tendra los siguientes campos: 
+{% include image.html img="../docs/temas/logistica/metodos_envio/same-day.png" alt="Alt for image" caption="prueba" %}
 
 Por ejemplo:
 - `Un usuario realiza la compra el día de hoy y debería recibirlo máximo el mismo día.`
 
 ## Express
-
 Es un método de envío cada vez más frecuente donde el tiempo de entrega es lo antes posible.
 
 La promesa de entrega es lo antes posible.
@@ -50,10 +55,9 @@ La promesa de entrega es lo antes posible.
 Por ejemplo:
 - `Un usuario realiza la compra y debería recibirlo en lapso de minutos u horas.`
 
-Con los métodos de envío explicados a un nivel general, podremos proceder a las configuraciones de cobertura, tarifas y tiempos de envío.
+Cuando haga la configuracion del metodo de envio en la seccion de "Coberturas y tarifas", tendra los siguientes campos: 
+{% include image.html img="../docs/temas/logistica/metodos_envio/express.png" alt="Alt for image" caption="prueba" %}
 
-Por último, es muy importante recalcar que cualquier cambio para que se vea reflejado en la web es necesario **"Pubicar coberturas"**
 
-Esta acción la podemos realizar en el botón de acciones.
+Con los métodos de envío explicados a un nivel general, podremos proceder a la seccion de **Coberturas y tarifas** con sus configuraciones de *coberturas*, *tarifas* y *tiempos de envío*.
 
-El estado de publicación, siempre nos informará si el método de envío está actualizado **Publicada** o si se encuentra **Pendiente**.
