@@ -1,7 +1,7 @@
 ---
 title: Clientes
 subtitle: 
-tags: [clientes]
+tags: [ver_cliente]
 author: joaquin
 ---
 
