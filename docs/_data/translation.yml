@@ -1,7 +1,7 @@
 # English (default)
 en:
-  previous:                   "Previous"
-  next:                       "Next"
+  # previous:                   "Previous"
+  # next:                       "Next"
   related_docs:               "Related Docs"
   related_posts:              "Related Posts"
   read_more:                  "Read more"
@@ -20,8 +20,8 @@ en:
 
 # Espanol
 es:
-  previous:                   "Anterior"
-  next:                       "Siguiente"
+  # previous:                   "Anterior"
+  # next:                       "Siguiente"
   related_docs:               "Documentos Relacionados"
   related_posts:              "Entradas Relacionadas"
   read_more:                  "Leer más"
