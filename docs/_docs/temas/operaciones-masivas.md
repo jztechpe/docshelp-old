@@ -24,6 +24,10 @@ Las operaciones masivas disponibles son:
 
 Cada opción permite la descarga de una plantilla excel que sirve como modelo para completar la información requerida y para realizar la carga masiva.
 
+{% include image.html img="../docs/primeros-pasos/operaciones-masivas.png" alt="Alt for image" caption="Operaciones masivas para site" %}
+
+{% include image.html img="../docs/primeros-pasos/operaciones-masivas-2.png" alt="Alt for image" caption="Operaciones masivas para merchant" %}
+
 ***Recomendaciones generales para las operaciones masivas:***
 
 - Siempre descarga la última versión de la plantilla.
