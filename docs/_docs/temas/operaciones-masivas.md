@@ -10,12 +10,15 @@ La plataforma permite realizar **operaciones masivas** con cargas de excel para 
 Las operaciones masivas disponibles son:
 
 - Creación masiva de productos.
+- Creación masiva completa de productos.
+- Actualización masiva completa de productos.
 - Actualización masiva de productos.
+- Actualización masiva de imágenes.
 - Actualización masiva de stocks.
 - Actualización masiva de precios bases.
-- Actualización masiva de precios urgentes.
+- Actualización masiva de precios promocionales.
 - Activación y desactivación masiva de productos.
-- Actualización masiva de variaciones de producto.
+- Actualización masiva de imágenes externas de variaciones.
 - Activación y desactivación masiva de variaciones.
 - Actualización de boost.
 
@@ -66,7 +69,7 @@ El producto sería `Pantalon XYZ` y las variaciones serían:
 - `Pantalon XYZ Color Azul Talla M`
 - `Pantalon XYZ Color Azul Talla L`
 
-## Actualización masiva de productos
+## Actualización masiva completa de productos
 
 La **actualización masiva de productos** permite actualizar múltiples productos desde un archivo excel. Esta plantilla utiliza principalmente el campo **ProductId** para realizar la actualización.
 
