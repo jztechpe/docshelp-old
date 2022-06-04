@@ -87,7 +87,7 @@ Luego se vamos al apartado de *Metodos de entrega* donde se podra hacer configur
 
 ## Buscar almacén
 Para poder buscar un almacen lo podemos hacer por su *Nombre y/o Codigo*.
-{% include image.html img="../docs/temas/merchant/almacenes/BUSCAR-almacen.png" alt="Alt for image" caption="prueba" %}
+{% include image.html img="../docs/temas/merchant/almacenes/buscar-almacen.png" alt="Alt for image" caption="prueba" %}
 
 ## Stock del almacén
 Para poder ver el stock de los productos que tiene el almacen, damos click al siguiente boton.
