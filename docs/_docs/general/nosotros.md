@@ -5,7 +5,7 @@ tags: [General]
 author: Luis Zumaeta
 ---
 
-¡Hola probando! Gracias por interesarte en saber quienes somos. En esta sección entenderás nuestra razón de existir y nuestra motivación diaria.
+¡Hola! Gracias por interesarte en saber quienes somos. En esta sección entenderás nuestra razón de existir y nuestra motivación diaria.
 
 ## **Visión**
 Ser el mejor aliado de E-commerce, entregando experiencias digitales de manera rápida y escalable.
