@@ -72,7 +72,7 @@
   - primeros-pasos/asignar-lista-destinatarios
   - primeros-pasos/nueva-marca-merchant #pendiente
   - primeros-pasos/nueva-categoria-merchant #pendiente
-  - temas/merchant/almacen
+  - temas/merchant/almacenes/almacen
 - title: Temas
   docs:
   - temas/catalogo/categoria
