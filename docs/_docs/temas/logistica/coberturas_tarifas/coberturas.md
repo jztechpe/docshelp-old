@@ -81,7 +81,7 @@ En esta sección crearemos "Tarifas y tiempos de envío" entre las zonas habilit
 Para mayor información puedes revisar la sección de "Tarifas".
 
 ## Seleccionar tarifa
-Para poder seleccionar una tarifa, primero la tarifa que se quiere seleccionar debe tener como minimo una ruta tarifaria y dicha ruta tarifaria debe tener como minimo 1 condicion especial.
+Para poder seleccionar una tarifa, primero la tarifa que se quiere seleccionar debe tener como minimo una ruta tarifaria y dicha ruta tarifaria debe tener como minimo 1unacondicion especial.
 
 Para mayor información puedes revisar la sección de "Tarifas".
 
