@@ -9,7 +9,7 @@ author: joaquin
 Para buscar un cliente, vamos a la opción de **Clientes** y luego **Buscar** donde se podra buscar 
 segun el *Nombre del Usuario*.
 {% include image.html img="../docs/temas/usuarios/clientes/buscar-cliente-1.png" alt="Alt for image" caption="prueba" %}
-Tambien tenemos filtros avanzados donde se podra filtrar por *Correo Electrónico*, *ID legal* o si estar *Habilitado* o *Deshabilitado*.
+Tambien tenemos filtros avanzados donde se podra filtrar por *Correo Electrónico*, *ID legal* o si esta *Habilitado* o *Deshabilitado*.
 {% include image.html img="../docs/temas/usuarios/clientes/buscar-cliente-2.png" alt="Alt for image" caption="prueba" %}
 
 ## Editar cliente

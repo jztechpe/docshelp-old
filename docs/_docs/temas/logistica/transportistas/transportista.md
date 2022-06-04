@@ -29,10 +29,13 @@ Un transportista tiene estos campos:
 - **Notas**: Notas internas que se le puede agregar al transportistas y que son solo visibles por el equipo del sitio.
 
 ## Crear transportista
-En SiteCentral, ingresar a la opcion de Transportistas, y utilizar el boton `Crear Transportista`.
+En SiteCentral, ingresar a la opcion de Transportistas, y utilizar el boton **Crear Transportista**.
+{% include image.html img="../docs/temas/logistica/transportistas/crear-transportista-1.png" alt="Alt for image" caption="prueba" %}
+{% include image.html img="../docs/temas/logistica/transportistas/crear-transportista-2.png" alt="Alt for image" caption="prueba" %}
 
 ## Modificar transportista
-En SiteCentral, ingresar a la opcion de Transportistas, y buscar el transportista por su nombre. Una vez encontrado, utilizar el boton `Modificar Transportista` para ingresar a esa opcion.
+En SiteCentral, ingresar a la opcion de Transportistas, y buscar el transportista por su nombre. Una vez encontrado, utilizar el boton en la columna Acciones.
+{% include image.html img="../docs/temas/logistica/transportistas/editar-transportista.png" alt="Alt for image" caption="prueba" %}
 
 ## Eliminar transportista
-En SiteCentral, ingresar a la opcion de Transportistas, y buscar el transportista por su nombre. Una vez encontrado, utilizar el boton `Modificar Transportista` para ingresar a esa opcion. Una vez dentro, seleccionar el boton `Eliminar`.
+En SiteCentral, ingresar a la opcion de Transportistas, y buscar el transportista por su nombre. Una vez encontrado, utilizar el boton en la columna Acciones. Una vez dentro, seleccionar el boton **Eliminar**.
