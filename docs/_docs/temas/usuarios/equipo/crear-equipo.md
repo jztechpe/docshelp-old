@@ -1,5 +1,5 @@
 ---
-title: Crear equipo
+title: Equipo
 subtitle: 
 tags: [crear_usuario]
 author: ivan
