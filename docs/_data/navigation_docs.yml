@@ -39,6 +39,8 @@
 - title: Primeros pasos para iniciar el marketplace
   docs:
   - primeros-pasos/iniciar-sesion-site
+  - primeros-pasos/inicio-dashboard
+  - primeros-pasos/informacion-del-site
   - primeros-pasos/modificar-site
   - temas/usuarios/equipo/crear-equipo
   - temas/usuarios/clientes/ver-cliente
