@@ -5,6 +5,8 @@ tags: [merchant,crear_tienda]
 author: Luis Zumaeta
 ---
 
+### **Como Site:**
+
 La opción de **tienda** solo se encuentra disponible para sitios **marketplace**.
 
 Un **Merchant/Seller** puede tener múltiples **tiendas** siempre y cuando el dueño del **marketplace** se lo permita. El rol principalmente encargado de realizar las configuraciones necesarias sería **SiteMerchantRep** y/o **SiteSale**.
@@ -37,9 +39,21 @@ Tienda: Muebles finos.
 Tienda: Deportes extremos.
 ```
 
+También se permite como Site crear nuevas tiendas, teniendo las siguientes opciones:
+- Crear Tienda: Permite crear Tiendas.
+- Iniciar descarga: Reporte en Excel de la Información de todas las Tiendas existentes.
+- Buscar: Búsqueda de Tiendas.
+- Acciones: Editar información de la Tienda como información básica, logo, categorías, configuración y opciones.
+
+{% include image.html img="../docs/primeros-pasos/tienda.png" alt="Alt for image" caption="Tienda" %}
+
+{% include image.html img="../docs/primeros-pasos/tienda-2.png" alt="Alt for image" caption="Editar tienda" %}
+
 ## Crear tienda
 
 En sitios **marketplace**, la tienda es habilitada desde la pantalla **Tiendas** en el menú lateral izquierdo. Para ello, debemos estar en la pantalla indicada y hacer clic en "Crear tienda".
+
+{% include image.html img="../docs/primeros-pasos/crear-tienda.png" alt="Alt for image" caption="Crear tienda" %}
 
 Cada **tienda** tiene que estar vinculada con un **merchant**.
 
@@ -60,3 +74,9 @@ Es la comisión impuesta por el **Siteowner** sobre todos los productos que el *
 ### Asesor comercial
 
 Es la persona responsable o ejecutivo de cuenta **(Sitesale)** que estableció o gestionará la relación comercial con el **merchant**. 
+
+### **Como Merchant:**
+
+Esta sección permite como Merchant poder editar una Tienda, teniendo las siguientes opciones como información básica, logo, categorías, garantía, configuración y opciones.
+
+{% include image.html img="../docs/primeros-pasos/tienda-merchant.png" alt="Alt for image" caption="Vista de tienda como merchant" %}

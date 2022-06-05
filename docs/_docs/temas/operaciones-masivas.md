@@ -24,6 +24,10 @@ Las operaciones masivas disponibles son:
 
 Cada opción permite la descarga de una plantilla excel que sirve como modelo para completar la información requerida y para realizar la carga masiva.
 
+{% include image.html img="../docs/primeros-pasos/operaciones-masivas.png" alt="Alt for image" caption="Operaciones masivas para site" %}
+
+{% include image.html img="../docs/primeros-pasos/operaciones-masivas-2.png" alt="Alt for image" caption="Operaciones masivas para merchant" %}
+
 ***Recomendaciones generales para las operaciones masivas:***
 
 - Siempre descarga la última versión de la plantilla.
@@ -39,7 +43,7 @@ Los campos mayoritariamente utilizados están mencionados en la sección de prod
 
 ## Creación masiva de productos
 
-La **creación masiva de productos** permite crear muchos productos o variaciones de producto desde un archivo excel. Esta plantilla solo permite la creación de productos y/o variaciones.
+La **creación masiva de productos** permite crear muchos productos o variaciones de producto desde un archivo excel. Esta plantilla solo permite la creación de productos y/o variaciones, UPC, marca, precio, categorias, información del producto y dimensiones.
 
 Para crear productos masivamente, es necesario completar los campos obligatorios.
 
@@ -52,7 +56,7 @@ Para crear productos con una sola variación es necesario dejar en blanco el cam
 Para crear 1 producto con muchas variaciones, se deben seguir los siguientes pasos:
 
 - Las variaciones son representadas en varias filas.
-- Todas las variaciones deben utilizar el mismo nombre.
+- Todas las variaciones deben utilizar el mismo nombre del producto.
 - Todas las variaciones deben tener la misma marca.
 - Todas las variaciones deben tener el mismo código de categoría.
 - Todas las variaciones deben tener diferentes SKU's.
@@ -69,6 +73,27 @@ El producto sería `Pantalon XYZ` y las variaciones serían:
 - `Pantalon XYZ Color Azul Talla M`
 - `Pantalon XYZ Color Azul Talla L`
 
+## Creación masiva completa de productos
+
+La **creación masiva completa de productos** permite crear muchos productos o variaciones de producto de manera mas completa desde un archivo excel. Esta plantilla permite la creación de productos y/o variaciones, marca, precio, categorias, información del producto, dimensiones del producto, UPC, boost de la tienda, imágenes de productos y/o variaciones, permisos del producto, precio promocional, stock y almacén.
+
+Para crear productos masivamente, es necesario completar los campos obligatorios.
+
+### Crear productos con una sola variación:
+
+Para crear productos con una sola variación es necesario dejar en blanco el campo **variaciones** y completar todos los campos obligatorios.
+
+### Crear productos con múltiples variaciones:
+
+Para crear 1 producto con muchas variaciones, se deben seguir los siguientes pasos:
+
+- Las variaciones son representadas en varias filas.
+- Todas las variaciones deben utilizar el mismo nombre del producto.
+- Todas las variaciones deben tener la misma marca.
+- Todas las variaciones deben tener el mismo código de categoría.
+- Todas las variaciones deben tener diferentes SKU's.
+- El campo variaciones debe contener y respetar los valores: Color, Capacidad, Talla y Estilo.
+
 ## Actualización masiva completa de productos
 
 La **actualización masiva de productos** permite actualizar múltiples productos desde un archivo excel. Esta plantilla utiliza principalmente el campo **ProductId** para realizar la actualización.
@@ -79,6 +104,16 @@ Por ejemplo:
 
 `Si el campo "Nombre del producto" se ingresa un nuevo valor y el campo "Descripción del producto" se encuentra vacío`
 `Entonces solo se actualizará el campo "Nombre el producto"`
+
+## Actualización masiva de imágenes
+
+La **Actualización masiva de imágenes** permite actualizar imágenes de productos y/o variaciones en un formato Zip de manera masiva. A continuación seguir las recomendaciones de como colocar los nombres de cada imagen:
+
+- El nombre de la imagen puede contener el ProductID. Ejm: d28ab390699d11ecbd679b538e2fb9be
+- Como tambien el ProductID y luego el SKU de la variación separados por un guión bajo. Ejm: d28ab390699d11ecbd679b538e2fb9be_SKU123
+- En caso de colocar solo el ProductID la imagen subida se asociará con la imagen del producto. Por otro lado, en caso de colocar tanto el ProductID como el SKU la imagen se asociará a una variación específica.
+- Verificar que los ProductIDs y los SKUs ingresados sean los mismos que están registrados en la plataforma, ya que deberá colocarse exactamente igual para la actualización de imágenes.
+- Tener en cuenta que guardar el archivo con otro nombre afectará las imágenes que deseas actualizar.
 
 ## Actualización masiva de stocks
 
@@ -97,11 +132,11 @@ La **actualización masiva de precios base** permite actualizar el precio de muc
 
 La **actualización** solo realiza la actualización del precio base siempre y cuando sea **mayor** al precio especial final.
 
-## Actualización masiva de precios especiales
+## Actualización masiva de precios promocionales
 
-La **actualización masiva de precios especiales** permite actualizar el precio especial final de muchas variaciones desde un archivo excel. Esta plantilla utiliza principalmente el campo **SKU** para realizar la actualización.
+La **actualización masiva de precios promocionales** permite actualizar el precio promocional de muchas variaciones desde un archivo excel y como requisito colocar la fecha de inicio promocional y la fecha de expiración del precio promocional. Esta plantilla utiliza principalmente el campo **SKU** y **precio base** para realizar la actualización.
 
-La **actualización** solo realiza la actualización del precio especial final siempre y cuando sea **menor** al precio base.
+La **actualización** solo realiza la actualización del precio promocional siempre y cuando sea **menor** al precio base.
 
 ## Activación y desactivación masiva de productos.
 
@@ -113,6 +148,14 @@ Por ejemplo:
 
 `Si el campo "Habilitar venta" se ingresa un nuevo valor y el campo "Habilitar búsqueda" se encuentra vacío`
 `Entonces solo se actualizará el campo "Habilitar venta"`
+
+## Actualización masiva de imagenes externas de variaciones
+
+La **actualización masiva de imagenes externas de variaciones** permite actualizar la imagen de la variación y la acción de poder agregar o reemplazar. Esta plantilla utiliza principalmente el campo **SKU** para realizar la actualización.
+
+## Actualización y desactivación masiva de variaciones
+
+La **actualización y desactivación masiva de variacioness** permite actualizar las variaciones para  habilitar para la venta. Esta plantilla utiliza principalmente el campo **SKU** para realizar la actualización.
 
 ## Actualización masiva de boost
 

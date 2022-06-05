@@ -26,6 +26,16 @@ Un merchant tiene los siguientes campos:
 - **Correo electronico de Persona de Operaciones**: correo electronico de la persona de operaciones.
 - **Telefono de Persona de Operaciones**: telefono fijo o celular de la persona de operaciones.
 
+Esta sección permite como Site crear nuevos Merchants, teniendo las siguientes opciones:
+- Crear Merchant: Permite crear Merchant.
+- Iniciar descarga: Reporte en Excel de la Información de todas los Merchants existentes.
+- Buscar: Búsqueda de Merchants.
+- Acciones: Editar información del Merchant como información básica, logo, categorías, configuración y opciones.
+
+{% include image.html img="../docs/primeros-pasos/merchant.png" alt="Alt for image" caption="Merchant" %}
+
+{% include image.html img="../docs/primeros-pasos/editar-merchant.png" alt="Alt for image" caption="Editar Merchant" %}
+
 Por último, los **merchants** suelen tener entidades importantes como las **tiendas** y **almacenes** que permiten su total funcionamiento. Por ejemplo:
 
 - `1 Merchant - 1 tienda - N Almacenes`

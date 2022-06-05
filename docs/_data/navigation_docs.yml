@@ -20,6 +20,7 @@
   - primeros-pasos/asignar-lista-destinatarios # solo si es singleplace
   - primeros-pasos/nuevo-proveedor-de-pago
   - primeros-pasos/nueva-opcion-de-pago
+  - temas/promociones/cupones/cupon
   - temas/logistica/metodos_envio/metodos
   - temas/logistica/coberturas_tarifas/coberturas
   - temas/logistica/coberturas_tarifas/tarifas
@@ -27,6 +28,7 @@
   - temas/logistica/transportistas/transportista
   - temas/logistica/transportistas/transportista-seleccion
   - temas/logistica/asignacion/asignacion
+  - temas/promociones/campañas/campania
   - primeros-pasos/crear-plantillas-email
   - primeros-pasos/crear-plantillas-web #
   - primeros-pasos/subir-carpeta-medios #
@@ -39,12 +41,15 @@
 - title: Primeros pasos para iniciar el marketplace
   docs:
   - primeros-pasos/iniciar-sesion-site
+  - primeros-pasos/inicio-dashboard
+  - primeros-pasos/informacion-del-site
   - primeros-pasos/modificar-site
   - temas/usuarios/equipo/crear-equipo
   - temas/usuarios/clientes/ver-cliente
   - primeros-pasos/nuevo-proveedor-de-pago
   - primeros-pasos/nueva-opcion-de-pago
   - primeros-pasos/nuevo-proveedor-de-email
+  - temas/promociones/cupones/cupon
   - temas/logistica/metodos_envio/metodos
   - temas/logistica/coberturas_tarifas/coberturas
   - temas/logistica/coberturas_tarifas/tarifas
@@ -52,6 +57,7 @@
   - temas/logistica/transportistas/transportista
   - temas/logistica/transportistas/transportista-seleccion
   - temas/logistica/asignacion/asignacion
+  - temas/promociones/campañas/campania
   - primeros-pasos/crear-plantillas-email
   - primeros-pasos/crear-plantillas-web
   - primeros-pasos/subir-carpeta-medios
@@ -80,6 +86,7 @@
   - temas/catalogo/producto
   - temas/cms/carpeta-medios
   - temas/cms/data-jerarquica
+  - temas/promociones/cupones/cupon
   - temas/logistica/metodos_envio/metodos
   - temas/logistica/coberturas_tarifas/coberturas
   - temas/logistica/coberturas_tarifas/tarifas
@@ -87,6 +94,7 @@
   - temas/logistica/transportistas/transportista
   - temas/logistica/transportistas/transportista-seleccion
   - temas/logistica/asignacion/asignacion
+  - temas/promociones/campañas/campania
   - temas/merchant/almacenes/almacen
   - temas/merchant/merchant
   - temas/merchant/tienda
@@ -97,7 +105,7 @@
   - temas/operaciones-masivas
   - temas/estado-de-operaciones-masivas
   - temas/ordenes/cliente
-  - temas/ordenes/cupon
+  - temas/promociones/cupones/cupon
   - temas/ordenes/orden-disputa
   - temas/ordenes/orden-pedidos-activos
   - temas/ordenes/orden-pedidos-finalizados
