@@ -2,7 +2,7 @@
   docs:
   - general/nosotros
   - general/nuestros-productos
-  - general/glosario
+  # - general/glosario
   - general/roles-merchant
   - general/roles-site
 # - title: Como crear mi Sitio Web?
@@ -72,16 +72,16 @@
   docs:
   - primeros-pasos/iniciar-sesion-site
   - temas/usuarios/equipo/crear-equipo
-  - primeros-pasos/tienda #pendiente
-  - primeros-pasos/dashboard
+  - temas/merchant/tienda
+  - primeros-pasos/inicio-dashboard
   - primeros-pasos/nuevo-producto
   - temas/operaciones-masivas
   - temas/ordenes/orden-pedidos-activos
   - temas/ordenes/orden-pedidos-finalizados
-  - primeros-pasos/crear-plantillas-web-merchant #pendiente
+    # - primeros-pasos/crear-plantillas-web-merchant #pendiente
   - primeros-pasos/asignar-lista-destinatarios
-  - primeros-pasos/nueva-marca-merchant #pendiente
-  - primeros-pasos/nueva-categoria-merchant #pendiente
+    # - primeros-pasos/nueva-marca-merchant #pendiente
+    # - primeros-pasos/nueva-categoria-merchant #pendiente
   - temas/merchant/almacenes/almacen
 - title: Temas
   docs:
@@ -89,8 +89,7 @@
   - temas/catalogo/marca
   - temas/catalogo/producto
   - temas/cms/carpeta-medios
-  - temas/cms/data-jerarquica
-  - temas/promociones/cupones/cupon
+  # - temas/cms/data-jerarquica
   - temas/logistica/metodos_envio/metodos
   - temas/logistica/coberturas_tarifas/coberturas
   - temas/logistica/coberturas_tarifas/tarifas
@@ -102,21 +101,22 @@
   - temas/merchant/almacenes/almacen
   - temas/merchant/merchant
   - temas/merchant/tienda
-  - temas/notificaciones/historial-notificacion
-  - temas/notificaciones/lista-notificacion
-  - temas/notificaciones/plantilla-notificacion
-  - temas/notificaciones/proveedor-notificacion
+  - temas/notificaciones/crear-suscripciones
+  - temas/notificaciones/proveedores
+  - temas/notificaciones/historial-buscar-por-correo-electronico
+  - temas/notificaciones/historial-buscar-por-el-asunto-del-mensaje
+  - temas/notificaciones/plantilla-agregar-plantilla
   - temas/operaciones-masivas
   - temas/estado-de-operaciones-masivas
-  - temas/ordenes/cliente
+  # - temas/ordenes/cliente
   - temas/promociones/cupones/cupon
-  - temas/ordenes/orden-disputa
+  # - temas/ordenes/orden-disputa
   - temas/ordenes/orden-pedidos-activos
   - temas/ordenes/orden-pedidos-finalizados
   - temas/pagos/opcion-pago
-  - temas/pagos/proveedor-pago
+  - temas/primeros-pasos/nuevo-proveedor-de-pago
   - temas/pagos/tipo-de-cambio
-  - temas/equipo/equipo
-  - temas/sitecentral
-  - temas/integraciones/integracion-cliente
-  - temas/integraciones/integracion-subscripcion
+  # - temas/equipo/equipo
+  # - temas/sitecentral
+  # - temas/integraciones/integracion-cliente
+  # - temas/integraciones/integracion-subscripcion
