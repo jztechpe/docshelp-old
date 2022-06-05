@@ -67,7 +67,7 @@
   - temas/notificaciones/historial-buscar-por-el-asunto-del-mensaje
   #- clientes de integracion
   - temas/notificaciones/crear-suscripciones
-  - primeros-pasos/asignar-herramienta-seguimiento
+  # - primeros-pasos/asignar-herramienta-seguimiento
   #- errores de integracion
   - temas/logistica/coberturas_tarifas/coberturas
   - temas/logistica/coberturas_tarifas/tarifas
@@ -102,7 +102,7 @@
   - primeros-pasos/asignar-lista-destinatarios
   #- clientes de integracion
   - temas/notificaciones/crear-suscripciones
-  - primeros-pasos/asignar-herramienta-seguimiento
+  # - primeros-pasos/asignar-herramienta-seguimiento
     # - primeros-pasos/crear-plantillas-web-merchant #pendiente
     # - primeros-pasos/nueva-marca-merchant #pendiente
     # - primeros-pasos/nueva-categoria-merchant #pendiente
