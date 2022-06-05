@@ -86,6 +86,7 @@
   - temas/catalogo/producto
   - temas/cms/carpeta-medios
   - temas/cms/data-jerarquica
+  - temas/promociones/cupones/cupon
   - temas/logistica/metodos_envio/metodos
   - temas/logistica/coberturas_tarifas/coberturas
   - temas/logistica/coberturas_tarifas/tarifas
@@ -93,6 +94,7 @@
   - temas/logistica/transportistas/transportista
   - temas/logistica/transportistas/transportista-seleccion
   - temas/logistica/asignacion/asignacion
+  - temas/promociones/campañas/campania
   - temas/merchant/almacenes/almacen
   - temas/merchant/merchant
   - temas/merchant/tienda
