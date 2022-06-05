@@ -22,7 +22,7 @@ Para poder editar un cupón iremos al boton editar y nos mostrara toda la inform
 Podemos buscar cupones por su codigo.
 {% include image.html img="../docs/temas/promociones/cupones/buscar-cupon.png" alt="Alt for image" caption="xxx" %}
 
-## Historias de usos
+## Historias de usos del cupón
 Para ver el historial de usos del cupon, damos click al siguiente boton.
 {% include image.html img="../docs/temas/promociones/cupones/historial-cupon-1.png" alt="Alt for image" caption="xxx" %}
 {% include image.html img="../docs/temas/promociones/cupones/historial-cupon-2.png" alt="Alt for image" caption="xxx" %}
