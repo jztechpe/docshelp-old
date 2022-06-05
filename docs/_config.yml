@@ -83,7 +83,7 @@ share:
 
 # Default footer image settings
 footer:
-    copyright:      Made by Niew Tech in Perú.
+    copyright:      Made by <a>Niew Tech</a> in Perú.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
