@@ -60,8 +60,8 @@
   - temas/logistica/asignacion/asignacion
   - temas/promociones/campañas/campania
   - primeros-pasos/crear-plantillas-email
-  - primeros-pasos/crear-plantillas-web
-  - primeros-pasos/subir-carpeta-medios
+  # - primeros-pasos/crear-plantillas-web
+  # - primeros-pasos/subir-carpeta-medios
   - primeros-pasos/nueva-marca
   - primeros-pasos/nueva-categoria
   - primeros-pasos/nuevo-almacen 
