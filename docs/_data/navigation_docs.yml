@@ -44,42 +44,66 @@
   - primeros-pasos/iniciar-sesion-site
   - primeros-pasos/inicio-dashboard
   # - primeros-pasos/modificar-site
+  - temas/merchant/merchant
+  - temas/merchant/tienda
   - temas/usuarios/equipo/crear-equipo
-  - primeros-pasos/asignar-lista-destinatarios
   - temas/usuarios/clientes/ver-cliente
-  - primeros-pasos/nuevo-proveedor-de-pago
-  - primeros-pasos/nueva-opcion-de-pago
-  # - primeros-pasos/nuevo-proveedor-de-email
+  - temas/operaciones-masivas
+  - primeros-pasos/nueva-marca
+  - primeros-pasos/nueva-categoria
+  - temas/estado-de-operaciones-masivas
+  - primeros-pasos/nuevo-pedido
+  - temas/ordenes/orden-pedidos-activos
+  - temas/ordenes/orden-pedidos-finalizados
   - temas/promociones/cupones/cupon
-  - temas/logistica/metodos_envio/metodos
+  - temas/promociones/campanias/campania
+  #- paginas-dinamicas  
+  - temas/cms/carpeta-medios
+  #- data jerarquica
+  #- temas
+  - primeros-pasos/crear-plantillas-email
+  - primeros-pasos/asignar-lista-destinatarios
+  - temas/notificaciones/proveedores
+  - temas/notificaciones/historial-buscar-por-el-asunto-del-mensaje
+  #- clientes de integracion
+  - temas/notificaciones/crear-suscripciones
+  - primeros-pasos/asignar-herramienta-seguimiento
+  #- errores de integracion
   - temas/logistica/coberturas_tarifas/coberturas
   - temas/logistica/coberturas_tarifas/tarifas
+  - temas/logistica/metodos_envio/metodos
   - temas/logistica/tamanios_envios/envios
   - temas/logistica/transportistas/transportista
   - temas/logistica/transportistas/transportista-seleccion
   - temas/logistica/asignacion/asignacion
-  - temas/promociones/campanias/campania
-  - primeros-pasos/crear-plantillas-email
+  - primeros-pasos/nuevo-proveedor-de-pago
+  - primeros-pasos/nueva-opcion-de-pago
+  # - primeros-pasos/nuevo-proveedor-de-email
   # - primeros-pasos/crear-plantillas-web
   # - primeros-pasos/subir-carpeta-medios
-  - primeros-pasos/nueva-marca
-  - primeros-pasos/nueva-categoria
   - primeros-pasos/nuevo-almacen 
   - primeros-pasos/nuevo-producto
-  - primeros-pasos/nuevo-pedido
-  - primeros-pasos/asignar-herramienta-seguimiento
 - title: Primeros pasos para iniciar Merchant/Seller
   docs:
   - primeros-pasos/iniciar-sesion-site
   - primeros-pasos/inicio-dashboard-merchant
-  - temas/usuarios/equipo/crear-equipo
   - temas/merchant/tienda
+  - temas/usuarios/equipo/crear-equipo
   - primeros-pasos/nuevo-producto
   - temas/operaciones-masivas
+  #- carga de imagenes
+  - primeros-pasos/nueva-marca
+  - primeros-pasos/nueva-categoria
+  - temas/estado-de-operaciones-masivas
   - temas/ordenes/orden-pedidos-activos
   - temas/ordenes/orden-pedidos-finalizados
-    # - primeros-pasos/crear-plantillas-web-merchant #pendiente
+  #- paginas-dinamicas  
+  - temas/cms/carpeta-medios
   - primeros-pasos/asignar-lista-destinatarios
+  #- clientes de integracion
+  - temas/notificaciones/crear-suscripciones
+  - primeros-pasos/asignar-herramienta-seguimiento
+    # - primeros-pasos/crear-plantillas-web-merchant #pendiente
     # - primeros-pasos/nueva-marca-merchant #pendiente
     # - primeros-pasos/nueva-categoria-merchant #pendiente
   - temas/merchant/almacenes/almacen
