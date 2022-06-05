@@ -103,7 +103,7 @@
   - temas/merchant/tienda
   - temas/notificaciones/crear-suscripciones
   - temas/notificaciones/proveedores
-  - temas/notificaciones/historial-buscar-por-correo-electronico
+  # - temas/notificaciones/historial-buscar-por-correo-electronico
   - temas/notificaciones/historial-buscar-por-el-asunto-del-mensaje
   - temas/notificaciones/plantilla-agregar-plantilla
   - temas/operaciones-masivas
