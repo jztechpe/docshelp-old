@@ -95,6 +95,7 @@
   - temas/notificaciones/plantilla-notificacion
   - temas/notificaciones/proveedor-notificacion
   - temas/operaciones-masivas
+  - temas/estado-de-operaciones-masivas
   - temas/ordenes/cliente
   - temas/ordenes/cupon
   - temas/ordenes/orden-disputa
