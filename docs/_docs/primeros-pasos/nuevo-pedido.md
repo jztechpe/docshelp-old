@@ -39,7 +39,7 @@ Dentro de un pedido se podrá visualizar una vista como la que se mostrará a co
 
 {% include image.html img="../docs/primeros-pasos/pedidos-sincronizar.jpg" alt="Alt for image" caption="Sincronizar Orden" %}
 
-## ¿Como se agrupan los pedidos?
+## ¿Cómo se agrupan los pedidos?
 Cada pedido puede tener uno o más subpedidos, los cuales son agrupados de acuerdo al almacén desde donde se recolectan los productos. Es decir si se tiene un pedido con 2 productos diferentes, el producto A1 se obtiene desde el almacén B1 y el producto A2 se obtiene desde el almacén B2, entonces se creará un pedido con 2 subpedidos. Caso contrario de que ambos productos se encuentren en el mismo almacén entonces solo se crearía un subpedido que contendría estos 2 productos.
 
 {% include image.html img="../docs/primeros-pasos/pedidos-agrupamiento.jpg" alt="Alt for image" caption="Pedidos Agrupamiento" %}
@@ -62,7 +62,7 @@ También podrás visualizar algunas opciones como **Iniciar descarga**, la cual 
 {% include image.html img="../docs/primeros-pasos/pedidos-activos-filtros-1.jpg" alt="Alt for image" caption="Filtros de Pedidos Activos" %}
 
 ## Cambio de estado
-Para cambiar de estado un pedido se debe ingresar a un subpedido en particular y en la parte superior derecha se mostrará un botón para cambiar al estado <a href="#que-estados-tienen-los-pedidos">siguiente</a>
+Para cambiar de estado un pedido se debe ingresar a un subpedido en particular y en la parte superior derecha se mostrará un botón para cambiar al estado <a href="#qué-estados-tienen-los-pedidos">siguiente</a>
 
 {% include image.html img="../docs/primeros-pasos/pedidos-activos-cambio-estado.jpg" alt="Alt for image" caption="Filtros de Pedidos Activos" %}
 
