@@ -20,6 +20,7 @@
   - primeros-pasos/asignar-lista-destinatarios # solo si es singleplace
   - primeros-pasos/nuevo-proveedor-de-pago
   - primeros-pasos/nueva-opcion-de-pago
+  - temas/promociones/cupones/cupon
   - temas/logistica/metodos_envio/metodos
   - temas/logistica/coberturas_tarifas/coberturas
   - temas/logistica/coberturas_tarifas/tarifas
@@ -27,6 +28,7 @@
   - temas/logistica/transportistas/transportista
   - temas/logistica/transportistas/transportista-seleccion
   - temas/logistica/asignacion/asignacion
+  - temas/promociones/campañas/campania
   - primeros-pasos/crear-plantillas-email
   - primeros-pasos/crear-plantillas-web #
   - primeros-pasos/subir-carpeta-medios #
