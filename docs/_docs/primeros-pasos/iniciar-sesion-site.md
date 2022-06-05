@@ -7,7 +7,7 @@ author: ivan
 
 ## Empecemos
 
-> [Enlace para iniciar sesión](https://sitecentral.jzte.ch/login)
+> [Enlace para iniciar sesión](https://sitecentral.ezcentral-tech.ch/login)
 
 ## ¿Que datos necesito?
 
@@ -19,5 +19,5 @@ author: ivan
 
 {% include alert.html style="success" text="⭐ Recuerda que para recuperar tu cotraseña deberas ingresar tu Dominio y tu Usuario" %}
 
-> [Enlace para recuperar contraseña](https://sitecentral.jzte.ch/password-recovery)
+> [Enlace para recuperar contraseña](https://sitecentral.ezcentral-tech.ch/password-recovery)
 
