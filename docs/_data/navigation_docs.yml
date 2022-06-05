@@ -114,7 +114,7 @@
   - temas/ordenes/orden-pedidos-activos
   - temas/ordenes/orden-pedidos-finalizados
   - temas/pagos/opcion-pago
-  - temas/primeros-pasos/nuevo-proveedor-de-pago
+  # - temas/primeros-pasos/nuevo-proveedor-de-pago
   - temas/pagos/tipo-de-cambio
   # - temas/equipo/equipo
   # - temas/sitecentral
