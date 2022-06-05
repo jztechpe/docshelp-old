@@ -6,23 +6,23 @@ author: ivan
 ---
 ## ¿Qué estados tienen los pedidos?
 
-> **Nuevo**: Es el primer
+> **Nuevo**: Es el primer estado con el que la orden es creada
 > 
-> **Pendiente de pago**
+> **Pendiente de pago**: Después de que la orden se crea pasa a ser pendiente de pago, hasta que se efectue el pago.
 > 
-> **Rechazado**
+> **Rechazado**: En caso de que suceda algún problema al momento de efectuarse el pago, el pedido obtiene este estado.
 > 
-> **Confirmado**
+> **Confirmado**: Si el pago fue satisfactorio, el pedido termina confirmándose.
 > 
-> **Listo para despacho**
+> **Listo para despacho**: Al empezar a ser procesado por el merchant, se puede colocar a listo para despacho en caso de que ya se tenga preparado el pedido para despecharse.
 > 
-> **En tránsito**
+> **En tránsito**: Cuando el pedido se encuentra en camino a ser entregado por el transportista.
 > 
-> **Entregado**
+> **Entregado**: Al ser entregado el pedido hasta el cliente final.
 > 
-> **Cancelado**
+> **Cancelado**: Este estado puede darse en cualquier momento dentro del flujo de pedidos excepto cuando un pedido tiene el estado de **Entregado**
 > 
-> **Retenido**
+> **Retenido**: De igual manera este estado puede darse en cualquier momento dentro del flujo normal de pedidos excepto cuando un pedido tiene el estado de **Entregado**
 
 ## Pedidos
 Ingresando a la opción **Pedidos** podrás encontrar todos los pedidos que se han realizado las últimas 24 horas. También podrás visualizar algunas opciones como **Iniciar descarga**, la cual permite obtener un archivo Excel con todos los registros necesarios de los pedidos y también existe otra opción de **Filtros**, en donde se puede filtrar estos pedidos por: 
