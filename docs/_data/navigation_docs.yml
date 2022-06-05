@@ -109,6 +109,7 @@
   - temas/merchant/almacenes/almacen
 - title: Temas
   docs:
+  #TODO: verify which ones are not in the previous titles
   - temas/catalogo/categoria
   - temas/catalogo/marca
   - temas/catalogo/producto
