@@ -12,39 +12,40 @@
 #   - site-onboarding/crear-superadmin
 #   - site-onboarding/configuraciones-iniciales
 #   - site-onboarding/crear-cliente-interactive
-- title: Primeros pasos para iniciar el singleplace
-  docs:
-  - primeros-pasos/iniciar-sesion-site 
-#  - primeros-pasos/modificar-site 
-  - temas/usuarios/equipo/crear-equipo
-  - primeros-pasos/asignar-lista-destinatarios # solo si es singleplace
-  - primeros-pasos/nuevo-proveedor-de-pago
-  - primeros-pasos/nueva-opcion-de-pago
-  - temas/promociones/cupones/cupon
-  - temas/logistica/metodos_envio/metodos
-  - temas/logistica/coberturas_tarifas/coberturas
-  - temas/logistica/coberturas_tarifas/tarifas
-  - temas/logistica/tamanios_envios/envios
-  - temas/logistica/transportistas/transportista
-  - temas/logistica/transportistas/transportista-seleccion
-  - temas/logistica/asignacion/asignacion
-  - temas/promociones/campañas/campania
-  - primeros-pasos/crear-plantillas-email
-  - primeros-pasos/crear-plantillas-web #
-  - primeros-pasos/subir-carpeta-medios #
-  - primeros-pasos/nueva-marca 
-  - primeros-pasos/nueva-categoria
-  - primeros-pasos/nuevo-almacen #
-  - primeros-pasos/nuevo-producto
-  - primeros-pasos/nuevo-pedido
-  - primeros-pasos/asignar-herramienta-seguimiento #
-- title: Primeros pasos para iniciar el marketplace
+# TODO: verify what are the differences between singleplace and marketplace in sitecentral, since in this menu the same options and texts are used in both
+# - title: Primeros pasos para iniciar el singleplace
+#   docs:
+#   - primeros-pasos/iniciar-sesion-site 
+# #  - primeros-pasos/modificar-site 
+#   - temas/usuarios/equipo/crear-equipo
+#   - primeros-pasos/asignar-lista-destinatarios # solo si es singleplace
+#   - primeros-pasos/nuevo-proveedor-de-pago
+#   - primeros-pasos/nueva-opcion-de-pago
+#   - temas/promociones/cupones/cupon
+#   - temas/logistica/metodos_envio/metodos
+#   - temas/logistica/coberturas_tarifas/coberturas
+#   - temas/logistica/coberturas_tarifas/tarifas
+#   - temas/logistica/tamanios_envios/envios
+#   - temas/logistica/transportistas/transportista
+#   - temas/logistica/transportistas/transportista-seleccion
+#   - temas/logistica/asignacion/asignacion
+#   - temas/promociones/campañas/campania
+#   - primeros-pasos/crear-plantillas-email
+#   - primeros-pasos/crear-plantillas-web #
+#   - primeros-pasos/subir-carpeta-medios #
+#   - primeros-pasos/nueva-marca 
+#   - primeros-pasos/nueva-categoria
+#   - primeros-pasos/nuevo-almacen #
+#   - primeros-pasos/nuevo-producto
+#   - primeros-pasos/nuevo-pedido
+#   - primeros-pasos/asignar-herramienta-seguimiento #
+- title: Primeros pasos para iniciar como singlepace o marketplace
   docs:
   - primeros-pasos/iniciar-sesion-site
   - primeros-pasos/inicio-dashboard
-  - primeros-pasos/informacion-del-site
   - primeros-pasos/modificar-site
   - temas/usuarios/equipo/crear-equipo
+  - primeros-pasos/asignar-lista-destinatarios
   - temas/usuarios/clientes/ver-cliente
   - primeros-pasos/nuevo-proveedor-de-pago
   - primeros-pasos/nueva-opcion-de-pago
@@ -63,6 +64,9 @@
   - primeros-pasos/subir-carpeta-medios
   - primeros-pasos/nueva-marca
   - primeros-pasos/nueva-categoria
+  - primeros-pasos/nuevo-almacen 
+  - primeros-pasos/nuevo-producto
+  - primeros-pasos/nuevo-pedido
   - primeros-pasos/asignar-herramienta-seguimiento
 - title: Primeros pasos para iniciar Merchant/Seller
   docs:
