@@ -1,10 +1,10 @@
 - title: General
   subtitles:
-    - subtitle: Nosotros
+    - subtitle: 
       docs:
         - general/nosotros
         - general/nuestros-productos
-    - subtitle: Roles
+    - subtitle: 
       docs:
         - general/roles-merchant
         - general/roles-site
