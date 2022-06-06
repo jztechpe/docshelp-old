@@ -142,6 +142,9 @@
       docs:
         - temas/cms/carpeta-medios
         - primeros-pasos/asignar-lista-destinatarios
+    - subtitle: Notificaciones
+      docs:
+        - primeros-pasos/asignar-lista-destinatarios
         #- clientes de integracion
         # - temas/notificaciones/crear-suscripciones
         # - primeros-pasos/asignar-herramienta-seguimiento
