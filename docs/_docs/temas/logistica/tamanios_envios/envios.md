@@ -58,7 +58,7 @@ Un tamaño de envio tiene los siguientes campos:
 ## Crear tamaños de envio
 Cuando el sitio es creado, como parte del proceso de onboarding o de configuracion inicial, es responsabilidad del equipo del sitio crear los tamaños de envio. Para hacerlo, en SiteCentral, se ingresa a la opcion de `Tamaños de Envio`, donde si es que no hay ningun tamaño registrado, solo aparecerá el boton de `Crear Tamaños`. Al presionar el boton, la plataforma creará los siete tamaños con medidas por defecto. A partir de ahi, el equipo del sitio, decidira si cambia o no las medidas de cada tamaño.
 
-## Modificar tamaño de envio
+## Editar tamaño de envio
 En SiteCentral, en la opcion `Tamaños de Envio`, se mostraran los tamaños registrados y para modificar uno de ellos, se debe presionar el boton que esta en la columna Acciones. Al presionarlo, aparece una ventana donde se puede modificar los campos ya mencionados antes.
 {% include image.html img="../docs/temas/logistica/tamanios_envios/envio.png" alt="Alt for image" caption="prueba" %}
 

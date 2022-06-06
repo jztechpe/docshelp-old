@@ -67,7 +67,7 @@ Es la opción de habilitar el recojo en la tienda de manera presencial.
 Para crear un almacen debemos ir a la seccion de **Almacenes** y dando click en  "Crear almacen".
 {% include image.html img="../docs/temas/merchant/almacenes/crear-almacen-1.png" alt="Alt for image" caption="prueba" %}
 
-Luego ingresaremos toda la informacion del almacen como *Nombre, Codigo, ID externo, Contacto del almacenero y Ubicación del almacen*.
+Luego ingresaremos toda la informacion del almacen como *Nombre*, *Codigo*, *ID externo*, *Contacto del almacenero* y *Ubicación del almacen*.
 {% include image.html img="../docs/temas/merchant/almacenes/crear-almacen-2.png" alt="Alt for image" caption="prueba" %}
 
 ## Editar almacén
@@ -79,10 +79,14 @@ Nos dirigira al apartdo de *Informacion* donde se mostrara la informacion actual
 
 Tambien un poco mas abajo encontraremos un boton de *"Configurar dias de no despacho o festivos"*, donde se podra escoger los dias en los cuales el almacen no hara despachos.
 {% include image.html img="../docs/temas/merchant/almacenes/editar-almacen-3.png" alt="Alt for image" caption="prueba" %}
+Podremos escoger los dias de no despacho dandole click a los dias.
 {% include image.html img="../docs/temas/merchant/almacenes/editar-almacen-4.png" alt="Alt for image" caption="prueba" %}
 
 Luego se vamos al apartado de *Metodos de entrega* donde se podra hacer configuraciones tanto para la "Entrega a domicilio" asi como para "Retiro en tienda".
+
+Esta seria la configuracion para el metodo "Entrega a domicilio".
 {% include image.html img="../docs/temas/merchant/almacenes/editar-almacen-5.png" alt="Alt for image" caption="prueba" %}
+Esta seria la configuracion para el metodo "Retiro en tienda".
 {% include image.html img="../docs/temas/merchant/almacenes/editar-almacen-6.png" alt="Alt for image" caption="prueba" %}
 
 ## Buscar almacén
@@ -92,7 +96,6 @@ Para poder buscar un almacen lo podemos hacer por su *Nombre y/o Codigo*.
 ## Stock del almacén
 Para poder ver el stock de los productos que tiene el almacen, damos click al siguiente boton.
 {% include image.html img="../docs/temas/merchant/almacenes/stock-1.png" alt="Alt for image" caption="prueba" %}
-
 Nos mostrara el SKU de los productos con su respectivo stock ademas de poder filtrarlos por si tiene variaciones o no y tambien un boton "Iniciar descarga" para descargar todo el stock del almacen en formato excel.
 {% include image.html img="../docs/temas/merchant/almacenes/stock-2.png" alt="Alt for image" caption="prueba" %}
 
