@@ -81,7 +81,7 @@
   # - primeros-pasos/nuevo-proveedor-de-email
   # - primeros-pasos/crear-plantillas-web
   # - primeros-pasos/subir-carpeta-medios
-  - primeros-pasos/nuevo-almacen 
+  - temas/merchant/almacenes/almacen
   - primeros-pasos/nuevo-producto
 - title: Primeros pasos para iniciar Merchant/Seller
   docs:
