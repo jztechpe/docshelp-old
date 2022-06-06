@@ -13,9 +13,9 @@ layout: default
                     <ul class="uk-nav uk-nav-default doc-nav">
                         {% for sub in section.subtitles %}
                         <li>
-                            <h6>
+                            <strong>
                                 {{ sub.subtitle }}
-                            </h6>
+                            </strong>
                             <ul class="uk-nav uk-nav-default doc-nav">
                                 {% for doc in sub.docs %}
                                 {% assign doc_url = doc | prepend:"/docs/" | append:"/" %}
