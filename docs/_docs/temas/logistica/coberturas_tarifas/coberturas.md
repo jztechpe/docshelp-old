@@ -49,26 +49,27 @@ a hablar de las funcionalidades en esta sección de **Coberturas y tarifas**.
 
 ## Crear cobertura
 Todos los métodos de envío poseen coberturas diferentes, esto permite una personalización correcta considerando tiempos, tarifas y coberturas geolocalizadas. Para crear una cobertura nos dirigimos a **Coberturas y tarifas**, presionamos el boton **Crear cobertura** y escogemos un **Metodo de envio**.
-
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/cobertura-tarifa-1.png" alt="Alt for image" caption="prueba" %}
+Nos saldra un recuadro donde escogeremos el metodo de envio para la cobertura.
+{% include alert.html style="success" text="⚠️ Cabe mencionar que cuando no se pueden crear dos cobertuas con el mismo metodo de envio." %}
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/cobertura-tarifa-2.png" alt="Alt for image" caption="prueba" %}
 
 Ahora pasaremos a ver todas las acciones que podemos hacer para una cobertura y para eso le damos click al boton de la columna Acciones.
+{% include alert.html style="success" text="⚠️ Cabe mencionar que cuando entremos al apartado de Coberturas en una campaña solo se podran ver las opciones de Publicar cobertura, Editar cobertura y Configuracion." %}
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/cobertura-tarifa-3.png" alt="Alt for image" caption="prueba" %}
 
-{% include alert.html style="success" text="⚠️ Cabe mencionar que cuando entremos al apartado de Coberturas en una campaña solo se podran ver las opciones de Publicar cobertura, Editar cobertura y Configuracion." %}
 
 ## Editar cobertura
 Para poder editar una cobertura, iremos al boton en la columna Acciones y vamos a **Editar cobertura**.
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/editar-cobertura-1.png" alt="Alt for image" caption="prueba" %}
+En esta sección crearemos "Zonas y polígonos" que determinarán la geolocalización de recojo y entrega.
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/editar-cobertura-2.png" alt="Alt for image" caption="prueba" %}
 
-En esta sección crearemos "Zonas y polígonos" que determinarán la geolocalización de recojo y entrega.
-
 ### Crear zona
-Para crear una zona debemos presionar el boton de **Crear zona** y te saldra un recuadro para que coloques el nombre de la zona, que debe ser unico por cobertura, y escogemos el color del poligono de la zona. 
+Para crear una zona debemos presionar el boton de **Crear zona**.
 {% include alert.html style="success" text="⚠️ Cabe mencionar que cuando entremos al apartado de Coberturas en una campaña y vamos a Editar cobertura, solo se podra crear una zona por cobertura." %}
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/editar-cobertura-3.png" alt="Alt for image" caption="prueba" %}
+Nos muestra un recuadro para que coloques el nombre de la zona, que debe ser unico por cobertura, y escogemos el color del poligono de la zona. 
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/editar-cobertura-4.png" alt="Alt for image" caption="prueba" %}
 
 Luego se creara un poligono en un mapa, donde podras editar la forma del poligono dandole click a alguna de los puntos que sale en los lados del poligono, y finalmente le debes dar a **Guardar cambios** para guardar el poligono de la zona.
@@ -90,7 +91,9 @@ Para mayor información puedes revisar la sección de "Tarifas".
 
 Para poder seleccionar una tarifa, iremos al boton en la columna Acciones y vamos a **Seleccionar tarifa**.
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/seleccionar-tarifa-1.png" alt="Alt for image" caption="prueba" %}
+Nos mostrara las tarifas disponibles para que sean seleccionadas ademas de decirme cual es la tarifa actual, que sea la que esta ya seleccionada.
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/seleccionar-tarifa-2.png" alt="Alt for image" caption="prueba" %}
+Finalmente nos mostrara un recuadro donde pedira la confirmacion del paciente con respecto al nombre de a tarifa.
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/seleccionar-tarifa-3.png" alt="Alt for image" caption="prueba" %}
 
 ## Configuración

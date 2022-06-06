@@ -11,7 +11,7 @@ Dentro de la sección e-mail se muestran todos los correos que han sido enviados
 ## Buscar por el asunto del mensaje
 Para buscar un correo por asunto deberás colocar exactamente el asunto a buscar para iniciar con la búsqueda.
 
-## buscar por correo electronico
+## Buscar por correo electronico
 Para buscar un correo por destinatario deberás colocar exactamente el correo electrónico del destinatario a buscar para iniciar con la búsqueda.
 
 

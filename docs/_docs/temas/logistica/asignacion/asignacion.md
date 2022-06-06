@@ -13,17 +13,22 @@ Se puede buscar almacenes por *Nombre del merchant y/o almacen* ademas de tener 
 {% include image.html img="../docs/temas/logistica/asignacion/buscar-asignacion.png" alt="Alt for image" caption="prueba" %}
 
 ## Ver detalles del Almacen
-Para ver la informacion del Almacen debemos darle click al boton con lupa y nos saldra un recuadro con la informacion ademas de los datos de contacto de dicho almacen.
+Para ver la informacion del Almacen debemos darle click al boton con lupa.
 {% include image.html img="../docs/temas/logistica/asignacion/detalles-1.png" alt="Alt for image" caption="prueba" %}
+Nos saldra un recuadro en el apartado *Informacion*.
 {% include image.html img="../docs/temas/logistica/asignacion/detalles-2.png" alt="Alt for image" caption="prueba" %}
+Tambien hay un apartado *Datos del contacto*.
+{% include image.html img="../docs/temas/logistica/asignacion/detalles-3.png" alt="Alt for image" caption="prueba" %}
 
 ## Asignar Transportista
-Para asignar un transportista primero debemos seleccionar uno o más almacenes a los que quiero asignarles un transportista, luego debo escoger el **Metodo de envio** y colocar el *Nombre del transportista*.
+Para asignar un transportista primero debemos seleccionar uno o más almacenes a los que quiero asignarles un transportista, luego le doy click al boton "Asignar".
 {% include image.html img="../docs/temas/logistica/asignacion/asignar-1.png" alt="Alt for image" caption="prueba" %}
+Nos saldra un recuadro donde debemos escoger el **Metodo de envio** y colocar el *Nombre del transportista*.
 {% include image.html img="../docs/temas/logistica/asignacion/asignar-2.png" alt="Alt for image" caption="prueba" %}
 
 ## Liberar Transportista
 Para liberar un transportista primero debemos seleccionar uno o más almacenes a los que quiero liberar su transportista.
 {% include image.html img="../docs/temas/logistica/asignacion/liberar-1.png" alt="Alt for image" caption="prueba" %}
+Nos saldra un recuadro si queremos confirmar la liberacion del metodo de envio y transportista del almacen seleccionado.
 {% include image.html img="../docs/temas/logistica/asignacion/liberar-2.png" alt="Alt for image" caption="prueba" %}
 
