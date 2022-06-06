@@ -31,11 +31,16 @@ Un transportista tiene estos campos:
 ## Crear transportista
 En SiteCentral, ingresar a la opcion de Transportistas, y utilizar el boton **Crear Transportista**.
 {% include image.html img="../docs/temas/logistica/transportistas/crear-transportista-1.png" alt="Alt for image" caption="prueba" %}
+Aqui debemos ingresar los datos del nuevo transportista como *Nombre*, *Identificador legar*, *Nombre legal*, *Contacto de operaciones*, *Contacto comercial* y *Notas*.
 {% include image.html img="../docs/temas/logistica/transportistas/crear-transportista-2.png" alt="Alt for image" caption="prueba" %}
 
-## Modificar transportista
+## Editar transportista
 En SiteCentral, ingresar a la opcion de Transportistas, y buscar el transportista por su nombre. Una vez encontrado, utilizar el boton en la columna Acciones.
-{% include image.html img="../docs/temas/logistica/transportistas/editar-transportista.png" alt="Alt for image" caption="prueba" %}
+{% include image.html img="../docs/temas/logistica/transportistas/editar-transportista-1.png" alt="Alt for image" caption="prueba" %}
+Luego nos mostrara toda la informacion del transportista.
+{% include image.html img="../docs/temas/logistica/transportistas/editar-transportista-2.png" alt="Alt for image" caption="prueba" %}
+{% include image.html img="../docs/temas/logistica/transportistas/editar-transportista-3.png" alt="Alt for image" caption="prueba" %}
+{% include image.html img="../docs/temas/logistica/transportistas/editar-transportista-4.png" alt="Alt for image" caption="prueba" %}
 
 ## Eliminar transportista
 En SiteCentral, ingresar a la opcion de Transportistas, y buscar el transportista por su nombre. Una vez encontrado, utilizar el boton en la columna Acciones. Una vez dentro, seleccionar el boton **Eliminar**.
