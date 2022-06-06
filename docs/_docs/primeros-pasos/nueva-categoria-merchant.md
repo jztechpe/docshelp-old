@@ -15,7 +15,7 @@ Las categorias de producto pueden ser organizadas en una estructura jerarquica (
 
 ## Búsqueda
 Podras realizar la busqueda de todas las categorias y desplegar para ver el árbol de sub categorias contenidas en la categoria padre.
-{% include image.html img="../docs/primeros-pasos/categoria_merchant1.png" alt="Alt for image" caption="Pantalla de Merchant Central" %}
+{% include image.html img="../docs/primeros-pasos/categorias_merchant1.png" alt="Alt for image" caption="Pantalla de Merchant Central" %}
 
 También se tiene un botón **Iniciar descarga** donde se descargará una plantilla Excel del reporte de las Categorias de todas Tiendas.
 {% include image.html img="../docs/primeros-pasos/categoria_merchant2.png" alt="Alt for image" caption="Pantalla de Merchant Central" %}
