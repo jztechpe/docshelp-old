@@ -120,7 +120,7 @@
         - primeros-pasos/inicio-dashboard-merchant
     - subtitle: Merchants
       docs:
-        - temas/merchant/tienda
+        - temas/merchant/tienda-merchant
     - subtitle: Usuarios
       docs:
         - temas/usuarios/equipo/crear-equipo
