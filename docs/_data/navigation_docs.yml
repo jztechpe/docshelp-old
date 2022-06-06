@@ -1,11 +1,7 @@
 - title: General
-  subtitles: Nosotros
   docs:
   - general/nosotros
   - general/nuestros-productos
-  subtitles: Roles
-  docs:
-  # - general/glosario
   - general/roles-merchant
   - general/roles-site
 # - title: Como crear mi Sitio Web?
@@ -43,17 +39,12 @@
 #   - primeros-pasos/nuevo-pedido
 #   - primeros-pasos/asignar-herramienta-seguimiento #
 - title: Primeros pasos para iniciar como Singlepace/Marketplace
-  subtitles: General
   docs:
   - primeros-pasos/iniciar-sesion-site
   - primeros-pasos/inicio-dashboard
   # - primeros-pasos/modificar-site
-  subtitles: Merchants
-  docs:
   - temas/merchant/merchant
   - temas/merchant/tienda
-  subtitles: Usuarios
-  docs:
   - temas/usuarios/equipo/crear-equipo
   - temas/usuarios/clientes/ver-cliente
   - temas/operaciones-masivas-site
@@ -92,7 +83,6 @@
   - temas/merchant/almacenes/almacen
   - primeros-pasos/nuevo-producto
 - title: Primeros pasos para iniciar Merchant/Seller
-  subtitles: Merchant
   docs:
   - primeros-pasos/iniciar-sesion-site
   - primeros-pasos/inicio-dashboard-merchant
@@ -117,7 +107,6 @@
     # - primeros-pasos/nueva-categoria-merchant #pendiente
   - temas/merchant/almacenes/almacen
 - title: Temas
-  subtitles: Temas
   docs:
   #TODO: verify which ones are not in the previous titles
   - temas/catalogo/categoria
