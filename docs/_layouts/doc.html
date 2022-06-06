@@ -11,13 +11,13 @@ layout: default
                     {% for section in site.data.navigation_docs %}
                     <h5>{{ section.title }}</h5>
                     <ul class="uk-nav uk-nav-default doc-nav">
-                        {% for doc in section.subtitle %}
+                        {% for sub in section.subtitle %}
                         <li>
                             <h6>
-                                {{ section.subtitle }}
+                                {{ sub.title }}
                             </h6>
                             <ul class="uk-nav uk-nav-default doc-nav">
-                                {% for doc in section.subtitle %}
+                                {% for doc in sub.docs %}
                                 {% assign doc_url = doc | prepend:"/docs/" | append:"/" %}
                                 {% assign p = site.docs | where:"url", doc_url | first %}
                                 <li class="{% if doc_url == page.url %}uk-active{% endif %}">
