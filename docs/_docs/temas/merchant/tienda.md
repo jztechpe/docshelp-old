@@ -68,7 +68,7 @@ Al editar podemos seleccionar si la tienda se va visualizar en la plataforma.
 
 En sitios **marketplace**, la tienda es habilitada desde la pantalla **Tiendas** en el menú lateral izquierdo. Para ello, debemos estar en la pantalla indicada y hacer clic en "Crear tienda".
 
-{% include image.html img="../docs/primeros-pasos/tienda_crear.png" alt="Alt for image" caption="Crear tienda" %}
+{% include image.html img="../docs/primeros-pasos/tienda-crear.png" alt="Alt for image" caption="Crear tienda" %}
 
 Cada **tienda** tiene que estar vinculada con un **merchant**.
 
