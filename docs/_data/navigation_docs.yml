@@ -72,6 +72,7 @@
         - primeros-pasos/nuevo-pedido
         - temas/ordenes/orden-pedidos-activos
         - temas/ordenes/orden-pedidos-finalizados
+        - temas/ordenes/disputas
     - subtitle: Promociones
       docs:
         - temas/promociones/cupones/cupon
