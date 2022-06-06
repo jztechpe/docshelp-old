@@ -86,7 +86,6 @@
 #   # - primeros-pasos/subir-carpeta-medios
 #   - temas/merchant/almacenes/almacen
 #   - primeros-pasos/nuevo-producto
-
 # - title: Primeros pasos para iniciar Merchant/Seller
 #   docs:
 #   - primeros-pasos/iniciar-sesion-site
@@ -95,9 +94,9 @@
 #   - temas/usuarios/equipo/crear-equipo
 #   - primeros-pasos/nuevo-producto
 #   - temas/operaciones-masivas
-#   #- carga de imagenes
-#   - primeros-pasos/nueva-marca
-#   - primeros-pasos/nueva-categoria
+#   - temas/carga-de-imagenes
+#   - temas/catalogo/marca-merchant
+#   - primeros-pasos/nueva-categoria-merchant
 #   - temas/estado-de-operaciones-masivas
 #   - temas/ordenes/orden-pedidos-activos
 #   - temas/ordenes/orden-pedidos-finalizados
@@ -111,7 +110,6 @@
 #     # - primeros-pasos/nueva-marca-merchant #pendiente
 #     # - primeros-pasos/nueva-categoria-merchant #pendiente
 #   - temas/merchant/almacenes/almacen
-
 # - title: Temas
 #   docs:
 #   #TODO: verify which ones are not in the previous titles
