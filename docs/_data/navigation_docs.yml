@@ -40,7 +40,7 @@
 #   - primeros-pasos/nuevo-pedido
 #   - primeros-pasos/asignar-herramienta-seguimiento #
 - title: Primeros pasos para iniciar como Singlepace/Marketplace
-  - docs: HOLA
+  docs: 
     - primeros-pasos/iniciar-sesion-site
     - primeros-pasos/inicio-dashboard
     # - primeros-pasos/modificar-site#
