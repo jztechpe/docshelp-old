@@ -4,7 +4,7 @@ subtitle: Crea y actualiza múltiples campos relacionados a un productos de form
 tags: [Cargas_masivas,Operaciones_masivas]
 author: Luis Zumaeta
 ---
-### **Como Site:**
+### **Como Merchant:**
 
 La plataforma permite realizar **operaciones masivas** con cargas de excel para crear y actualizar múltiples productos en un breve periodo de tiempo.
 
