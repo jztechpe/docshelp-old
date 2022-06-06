@@ -1,10 +1,10 @@
-- title: General 
-    subtitle: 
+- title: General
+    subtitle:
       - title: Subtitle 1
         docs:
           general/nosotros
           general/nuestros-productos
-    subtitle: 
+    subtitle:
       - title: Subtitle 1
         docs:
           general/roles-merchant
