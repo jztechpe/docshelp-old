@@ -1,12 +1,13 @@
 - title: General
-  - subtitle: Subtitle 1
-    docs:
-      general/nosotros
-      general/nuestros-productos
-  - subtitle: Subtitle 2
-    docs:
-      general/roles-merchant
-      general/roles-site
+  subtitles:
+    - subtitle: Subtitle
+      docs:
+        - general/nosotros
+        - general/nuestros-productos
+    - subtitle: Subtitle 2
+      docs:
+        - general/roles-merchant
+        - general/roles-site
 # - title: Como crear mi Sitio Web?
 #   docs:
 #   - site-onboarding/crear-site

@@ -11,10 +11,10 @@ layout: default
                     {% for section in site.data.navigation_docs %}
                     <h5>{{ section.title }}</h5>
                     <ul class="uk-nav uk-nav-default doc-nav">
-                        {% for sub in section.subtitle %}
+                        {% for sub in section.subtitles %}
                         <li>
                             <h6>
-                                {{ sub }}
+                                {{ sub.subtitle }}
                             </h6>
                             <ul class="uk-nav uk-nav-default doc-nav">
                                 {% for doc in sub.docs %}
