@@ -49,20 +49,17 @@ También se permite como Site crear nuevas tiendas, teniendo las siguientes opci
 
 {% include image.html img="../docs/primeros-pasos/tienda-2.png" alt="Alt for image" caption="Editar tienda" %}
 
-Al editar podemos colocar un logo a la tienda.
-{% include image.html img="../docs/primeros-pasos/tienda-editar1.png" alt="Alt for image" caption="Editar tienda" %}
+Al editar podemos visualizar el logo de la tienda.
+{% include image.html img="../docs/primeros-pasos/tienda-3.png" alt="Alt for image" caption="Editar tienda" %}
 
-Al editar podemos asociar una categoría a la tienda.
-{% include image.html img="../docs/primeros-pasos/tienda-editar2.png" alt="Alt for image" caption="Editar tienda" %}
-
-Al editar podemos colocar la política de reembolso y garantía a la tienda.
-{% include image.html img="../docs/primeros-pasos/tienda-editar3.png" alt="Alt for image" caption="Editar tienda" %}
+Al editar podemos visualizar la categoría de la tienda y el Meta keywords.
+{% include image.html img="../docs/primeros-pasos/tienda-4.png" alt="Alt for image" caption="Editar tienda" %}
 
 Al editar podemos colocar el monto mínimo que el usuario debe agregar al carrito para poder comprar los productos de la tienda.
-{% include image.html img="../docs/primeros-pasos/tienda-editar4.png" alt="Alt for image" caption="Editar tienda" %}
+{% include image.html img="../docs/primeros-pasos/tienda-5.png" alt="Alt for image" caption="Editar tienda" %}
 
-Al editar podemos seleccionar si la tienda se va visualizar en la plataforma.
-{% include image.html img="../docs/primeros-pasos/tienda-editar5.png" alt="Alt for image" caption="Editar tienda" %}
+Al editar podemos seleccionar si la tienda se va visualizar en la plataforma, el porcentaje de Comisión por venta, el Boost (Mayor prioridad asignada a la tienda para destacarla del resto) y el Asesor comercial.
+{% include image.html img="../docs/primeros-pasos/tienda-6.png" alt="Alt for image" caption="Editar tienda" %}
 
 ## Crear tienda
 
@@ -95,3 +92,18 @@ Es la persona responsable o ejecutivo de cuenta **(Sitesale)** que estableció o
 Esta sección permite como Merchant poder editar una Tienda, teniendo las siguientes opciones como información básica, logo, categorías, garantía, configuración y opciones.
 
 {% include image.html img="../docs/primeros-pasos/tienda-merchant.png" alt="Alt for image" caption="Vista de tienda como merchant" %}
+
+Al editar podemos colocar un logo a la tienda.
+{% include image.html img="../docs/primeros-pasos/tienda-editar1.png" alt="Alt for image" caption="Editar tienda" %}
+
+Al editar podemos asociar una categoría a la tienda.
+{% include image.html img="../docs/primeros-pasos/tienda-editar2.png" alt="Alt for image" caption="Editar tienda" %}
+
+Al editar podemos colocar la política de reembolso y garantía a la tienda.
+{% include image.html img="../docs/primeros-pasos/tienda-editar3.png" alt="Alt for image" caption="Editar tienda" %}
+
+Al editar podemos colocar el monto mínimo que el usuario debe agregar al carrito para poder comprar los productos de la tienda.
+{% include image.html img="../docs/primeros-pasos/tienda-editar4.png" alt="Alt for image" caption="Editar tienda" %}
+
+Al editar podemos seleccionar si la tienda se va visualizar en la plataforma.
+{% include image.html img="../docs/primeros-pasos/tienda-editar5.png" alt="Alt for image" caption="Editar tienda" %}

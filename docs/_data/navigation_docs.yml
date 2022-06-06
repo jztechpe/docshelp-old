@@ -101,13 +101,13 @@
         - temas/logistica/coberturas_tarifas/tarifas
         - temas/logistica/tamanios_envios/envios
         - temas/logistica/transportistas/transportista
-        - temas/merchant/almacenes/almacen
-        # - temas/logistica/transportistas/transportista-seleccion
         - temas/logistica/asignacion/asignacion
-    - subtitle: Finanzas
-      docs:
-        - primeros-pasos/nuevo-proveedor-de-pago
-        - primeros-pasos/nueva-opcion-de-pago
+        # - temas/logistica/transportistas/transportista-seleccion
+        - temas/merchant/almacenes/almacen
+    # - subtitle: Finanzas
+    #   docs:
+    #     - primeros-pasos/nuevo-proveedor-de-pago
+    #     - primeros-pasos/nueva-opcion-de-pago
         # - primeros-pasos/nuevo-proveedor-de-email
         # - primeros-pasos/crear-plantillas-web
         # - primeros-pasos/subir-carpeta-medios
@@ -142,7 +142,6 @@
     - subtitle: CMS
       docs:
         - temas/cms/carpeta-medios
-        - primeros-pasos/asignar-lista-destinatarios
     - subtitle: Notificaciones
       docs:
         - primeros-pasos/asignar-lista-destinatarios
