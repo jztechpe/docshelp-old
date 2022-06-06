@@ -20,3 +20,7 @@ Tras ello, ingresarás el *Nombre* de la marca; y luego clic en **Guardar**.
 ## Editar
 Si deseas editar la Marca que has creado, solo debes dirigirte a la opcion correspondiente.
 {% include image.html img="../docs/primeros-pasos/marca_site3.png" alt="Alt for image" caption="Pantalla de Merchant Central" %}
+
+También se tiene un botón Iniciar descarga donde se descargará una plantilla Excel del reporte de todas las Tiendas con información.
+{% include image.html img="../docs/primeros-pasos/marca_site4.png" alt="Alt for image" caption="Pantalla de Merchant Central" %}
+
