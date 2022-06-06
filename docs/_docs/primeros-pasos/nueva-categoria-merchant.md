@@ -6,6 +6,8 @@ author: Gisela Quiroz
 ---
 {% include alert.html style="success" text="⚠️ Es importante registrar la categoria porque luego te permitira registrar tus productos" %}
 
+### **Como Merchant:**
+
 ## ¿Qué es una categoría?
 Una categoría de producto es una agrupación de productos con caracteristicas y/o beneficios similares. Algunos ejemplos: Moda Hombres, Zapatos, Zapatillas, Electrodomesticos, Videojuegos, etc.
 
