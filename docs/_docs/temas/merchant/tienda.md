@@ -1,5 +1,5 @@
 ---
-title: Tienda
+title: Tiendas
 subtitle: Una tienda representa principalmente el nombre comercial o la división de diferentes negocios del merchant.
 tags: [merchant,crear_tienda]
 author: Luis Zumaeta

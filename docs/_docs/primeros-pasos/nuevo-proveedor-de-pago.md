@@ -1,5 +1,5 @@
 ---
-title: Nuevo proveedor de pago
+title: Proveedores de pago
 subtitle: 
 tags: [nuevo_proveedor_pago]
 author: ivan

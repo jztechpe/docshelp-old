@@ -1,5 +1,5 @@
 ---
-title: Almacén
+title: Almacenes
 subtitle: El almacén es la representación virtual de una tienda o un almacén físico.
 tags: [merchant,almacen]
 author: Luis Zumaeta

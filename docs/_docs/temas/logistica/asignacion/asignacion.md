@@ -1,5 +1,5 @@
 ---
-title: Asignacion de Transportista a Almacén
+title: Asignación
 subtitle: 
 tags: []
 author: joaquin

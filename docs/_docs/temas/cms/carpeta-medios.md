@@ -1,5 +1,5 @@
 ---
-title: Carpeta de medios
+title: Carpetas de medios
 subtitle: La carpeta de medios le permite al equipo del sitio y al equipo del merchant subir imagenes y otros archivos para ser usados en la presentacion del sitio o de la tienda.
 tags: [carpeta de medios, tienda, sitio, cms]
 author: katlimruiz

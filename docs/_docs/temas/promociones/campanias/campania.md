@@ -1,5 +1,5 @@
 ---
-title: Crear campaña
+title: Campañas
 subtitle: 
 tags: [crear_campaña]
 author: Joaquin

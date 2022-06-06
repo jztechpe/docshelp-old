@@ -1,5 +1,5 @@
 ---
-title: Configuración de categorías
+title: Categorías
 subtitle: Crear, editar y buscar
 tags: [configuracion_categoria,tema_categoria_producto]
 author: ivan

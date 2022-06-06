@@ -1,5 +1,5 @@
 ---
-title: Transportista
+title: Transportistas
 subtitle: Un transportista representa una empresa que se asocia con el sitio para otorgar el servicio de envio de los productos vendidos.
 tags: [envios,tema_transportista]
 author: katlimruiz

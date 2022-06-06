@@ -1,5 +1,5 @@
 ---
-title: Tamaños de Envio
+title: Tamaños de envios
 subtitle: Todos los paquetes que se envian a los compradores son clasificados segun sus dimensiones y peso en una escala configurable de tamaños para que de esta manera se pueda homogeneizar los precios de envio.
 tags: [envios,transportista]
 author: joaquin

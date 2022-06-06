@@ -1,5 +1,5 @@
 ---
-title: Asignar lista de destinatarios
+title: Destinatarios
 subtitle: 
 tags: [asignar_lista_destinatarios]
 author: ivan

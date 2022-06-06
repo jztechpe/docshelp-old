@@ -1,5 +1,5 @@
 ---
-title: Estado de operaciones masivas
+title: Estado de operaciones
 subtitle: Verifica el estado en tiempo real de la operación realizada.
 tags: [Cargas_masivas,Operaciones_masivas,estado_de_operaciones_masivas]
 author: Oscar Cabrera

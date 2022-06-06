@@ -1,5 +1,5 @@
 ---
-title: Merchant
+title: Merchants
 subtitle: Un merchant representa la empresa autorizada de vender los productos que aparecen en el catalogo.
 tags: [merchant]
 author: katlimruiz

@@ -1,5 +1,5 @@
 ---
-title: Configuración de marcas
+title: Marcas
 subtitle: Crear, editar y buscar
 tags: [configuracion_marca,tema_marca_producto]
 author: ivan
