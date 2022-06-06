@@ -7,9 +7,9 @@ author: Gisela Quiroz
 {% include alert.html style="success" text="⚠️ Es importante registrar la categoria porque luego te permitira registrar tus productos" %}
 
 ## ¿Qué es una categoría?
-Una categoria de producto es una agrupación de productos con caracteristicas y/o beneficios similares. Algunos ejemplos: Moda Hombres, Zapatos, Zapatillas, Electrodomesticos, Videojuegos, etc.
+Una categoría de producto es una agrupación de productos con caracteristicas y/o beneficios similares. Algunos ejemplos: Moda Hombres, Zapatos, Zapatillas, Electrodomesticos, Videojuegos, etc.
 
-Las categorias de producto pueden ser organizadas en una estructura jerarquica (llamado arbol de categorias) donde una categoria padre puede contener muchas categorias hijas.
+Las categorías de producto pueden ser organizadas en una estructura jerarquica (llamado arbol de categorias) donde una categoría padre puede contener contener muchas categorias hijas y se pueden crear hasta 4 categorías hijas.
 
 > Si quieres saber mas, sigue el *[tema de categorías](https://jztechpe.github.io/docshelp/docs/temas/catalogo/categoria/)*
 
