@@ -1,4 +1,5 @@
-- title: General
+- title:
+  name: general
   - subtitle: Nosotros
     docs:
     - general/nosotros
