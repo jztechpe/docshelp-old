@@ -49,6 +49,21 @@ También se permite como Site crear nuevas tiendas, teniendo las siguientes opci
 
 {% include image.html img="../docs/primeros-pasos/tienda-2.png" alt="Alt for image" caption="Editar tienda" %}
 
+Al editar podemos colocar un logo a la tienda.
+{% include image.html img="../docs/primeros-pasos/tienda-editar1.png" alt="Alt for image" caption="Editar tienda" %}
+
+Al editar podemos asociar una categoría a la tienda.
+{% include image.html img="../docs/primeros-pasos/tienda-editar2.png" alt="Alt for image" caption="Editar tienda" %}
+
+Al editar podemos colocar la política de reembolso y garantía a la tienda.
+{% include image.html img="../docs/primeros-pasos/tienda-editar3.png" alt="Alt for image" caption="Editar tienda" %}
+
+Al editar podemos colocar el monto mínimo que el usuario debe agregar al carrito para poder comprar los productos de la tienda.
+{% include image.html img="../docs/primeros-pasos/tienda-editar4.png" alt="Alt for image" caption="Editar tienda" %}
+
+Al editar podemos seleccionar si la tienda se va visualizar en la plataforma.
+{% include image.html img="../docs/primeros-pasos/tienda-editar5.png" alt="Alt for image" caption="Editar tienda" %}
+
 ## Crear tienda
 
 En sitios **marketplace**, la tienda es habilitada desde la pantalla **Tiendas** en el menú lateral izquierdo. Para ello, debemos estar en la pantalla indicada y hacer clic en "Crear tienda".
