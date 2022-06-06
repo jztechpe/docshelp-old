@@ -40,16 +40,15 @@
 #   - primeros-pasos/nuevo-pedido
 #   - primeros-pasos/asignar-herramienta-seguimiento #
 - title: Primeros pasos para iniciar como Singlepace/Marketplace
-  docs: HOLA
+  - docs: HOLA
     - primeros-pasos/iniciar-sesion-site
     - primeros-pasos/inicio-dashboard
-    # - primeros-pasos/modificar-site
+    # - primeros-pasos/modificar-site#
     - temas/merchant/merchant
     - temas/merchant/tienda
     - temas/usuarios/equipo/crear-equipo
     - temas/usuarios/clientes/ver-cliente
     - temas/operaciones-masivas
-  docs: HOLA2
     - primeros-pasos/nueva-marca
     - primeros-pasos/nueva-categoria
     - temas/estado-de-operaciones-masivas
