@@ -1,11 +1,9 @@
 - title: General
-    - subtitle:
-      title: Subtitle 1
+    - subtitle: Subtitle 1
       docs:
         general/nosotros
         general/nuestros-productos
-    - subtitle:
-      title: Subtitle 2
+    - subtitle: Subtitle 2
       docs:
         general/roles-merchant
         general/roles-site
