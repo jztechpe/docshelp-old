@@ -66,7 +66,7 @@
         - primeros-pasos/nueva-categoria
     - subtitle: Reportes
       docs:
-        - temas/estado-de-operaciones-masivas
+        - temas/estado-de-operaciones-masivas-site
     - subtitle: Ordenes
       docs:
         - primeros-pasos/nuevo-pedido
