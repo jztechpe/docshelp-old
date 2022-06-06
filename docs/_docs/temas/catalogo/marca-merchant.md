@@ -14,4 +14,6 @@ En general, el equipo del sitio es dueño de las marcas de producto y se encarga
 
 Para sitios **marketplace**, la asignacion de las marcas a los productos se espera que sea hecha por los merchants.
 
+También se tienne un botón **Iniciar descarga** donde se descargará una plantilla Excel del reporte de todas las Tiendas con información.
+
 {% include image.html img="../docs/primeros-pasos/merchant.png" alt="Alt for image" caption="Merchant" %}
