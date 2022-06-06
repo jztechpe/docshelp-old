@@ -16,6 +16,6 @@ Para sitios **marketplace**, la asignacion de las marcas a los productos se espe
 
 {% include image.html img="../docs/primeros-pasos/merchant.png" alt="Alt for image" caption="Merchant" %}
 
-También se tiene un botón **Iniciar descarga** donde se descargará una plantilla Excel del reporte de todas las Tiendas con información.
+También se tiene un botón **Iniciar descarga** donde se descargará una plantilla Excel del reporte de las Marcas de todas las Tiendas.
 
 {% include image.html img="../docs/primeros-pasos/marca_merchant1.png" alt="Alt for image" caption="Merchant" %}
