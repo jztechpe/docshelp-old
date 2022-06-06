@@ -149,6 +149,7 @@
         # - primeros-pasos/nueva-marca-merchant #pendiente
         # - primeros-pasos/nueva-categoria-merchant #pendiente
     - subtitle: Logisticas
+      docs:
         - temas/merchant/almacenes/almacen
 # - title: Temas
 #   subtitles:
