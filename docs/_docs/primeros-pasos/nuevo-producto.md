@@ -1,5 +1,5 @@
 ---
-title: Nuevo producto
+title: Productos
 subtitle: Crear, editar y buscar
 tags: [crear_tienda,carga_masiva]
 author: ivan

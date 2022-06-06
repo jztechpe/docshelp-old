@@ -1,5 +1,5 @@
 ---
-title: Nueva opción de pago
+title: Opciones de pago
 subtitle: 
 tags: [nueva_opcion_pago]
 author: ivan

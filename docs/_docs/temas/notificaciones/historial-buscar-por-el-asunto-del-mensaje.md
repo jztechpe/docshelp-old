@@ -1,5 +1,5 @@
 ---
-title: Historial de notificaciones
+title: Historial
 subtitle: 
 tags: [historial_notificaciones]
 author: Maricielo

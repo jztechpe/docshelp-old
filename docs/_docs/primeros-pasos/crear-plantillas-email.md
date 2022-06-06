@@ -1,5 +1,5 @@
 ---
-title: 	Plantilla de correo
+title: 	Plantillas
 subtitle: Crear, editar
 tags: [plantilla_correo]
 author: ivan

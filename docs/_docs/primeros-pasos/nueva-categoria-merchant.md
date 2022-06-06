@@ -1,5 +1,5 @@
 ---
-title: Configuración de categorías
+title: Categorías
 subtitle: Buscar categorías
 tags: [buscar_categorias]
 author: Gisela Quiroz
