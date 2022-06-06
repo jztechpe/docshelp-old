@@ -1,6 +1,6 @@
 ---
 title: Operaciones masivas
-subtitle: Crea y actualiza múltiples productos.
+subtitle: Crea y actualiza múltiples campos relacionados a un productos de forma masiva.
 tags: [Cargas_masivas,Operaciones_masivas]
 author: Luis Zumaeta
 ---

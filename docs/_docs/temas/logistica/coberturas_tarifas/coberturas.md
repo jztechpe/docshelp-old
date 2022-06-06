@@ -56,6 +56,8 @@ Todos los métodos de envío poseen coberturas diferentes, esto permite una pers
 Ahora pasaremos a ver todas las acciones que podemos hacer para una cobertura y para eso le damos click al boton de la columna Acciones.
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/cobertura-tarifa-3.png" alt="Alt for image" caption="prueba" %}
 
+{% include alert.html style="success" text="⚠️ Cabe mencionar que cuando entremos al apartado de Coberturas en una campaña solo se podran ver las opciones de Publicar cobertura, Editar cobertura y Configuracion." %}
+
 ## Editar cobertura
 Para poder editar una cobertura, iremos al boton en la columna Acciones y vamos a **Editar cobertura**.
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/editar-cobertura-1.png" alt="Alt for image" caption="prueba" %}
@@ -64,7 +66,8 @@ Para poder editar una cobertura, iremos al boton en la columna Acciones y vamos 
 En esta sección crearemos "Zonas y polígonos" que determinarán la geolocalización de recojo y entrega.
 
 ### Crear zona
-Para crear una zona debemos presionar el boton de **Crear zona** y te saldra un recuadro para que coloques el nombre de la zona, que debe ser unico por cobertura, y escogemos el color del poligono de la zona.
+Para crear una zona debemos presionar el boton de **Crear zona** y te saldra un recuadro para que coloques el nombre de la zona, que debe ser unico por cobertura, y escogemos el color del poligono de la zona. 
+{% include alert.html style="success" text="⚠️ Cabe mencionar que cuando entremos al apartado de Coberturas en una campaña y vamos a Editar cobertura, solo se podra crear una zona por cobertura." %}
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/editar-cobertura-3.png" alt="Alt for image" caption="prueba" %}
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/editar-cobertura-4.png" alt="Alt for image" caption="prueba" %}
 
@@ -92,12 +95,14 @@ Para poder seleccionar una tarifa, iremos al boton en la columna Acciones y vamo
 
 ## Configuración
 Para poder configurar el metodo de envio de la cobertura, iremos al boton en la columna Acciones y vamos a **Configuracion**.
+{% include alert.html style="success" text="⚠️ Cabe mencionar que cuando estemos en el apartado de Coberturas de una campaña, esta opcion de Configuracion solo se podra ver cuando se haya creado una zona." %}
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/configuracion-1.png" alt="Alt for image" caption="prueba" %}
 
 Para mayor informacion puedes revisar la seccion de "Metodos de envío".
 
 ## Publicar cobertura
 Para poder publicar una cobertura, iremos al boton de la columna Acciones y vamos a **Publicar cobertura**.
+{% include alert.html style="success" text="⚠️ Cabe mencionar que cuando estemos en el apartado de Coberturas de una campaña, esta opcion de Publicar cobertura solo se podra ver cuando se haya creado una zona." %}
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/publicar-cobertura.png" alt="Alt for image" caption="prueba" %}
 
 Cabe mencionar cuando edito una cobertura y dicha cobertura esta publicada, su estado de publicacion cambiara a pendiente. Esto solo pasara cuando edito una cobertura.

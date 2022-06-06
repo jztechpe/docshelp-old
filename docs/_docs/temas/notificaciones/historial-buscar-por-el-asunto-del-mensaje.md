@@ -1,11 +1,18 @@
 ---
-title: Historial
+title: Historial de notificaciones
 subtitle: 
-tags: [Historial_buscar por el asunto del mensaje]
+tags: [historial_notificaciones]
 author: Maricielo
 ---
 
-## Historial buscar por el asunto del mensaje
-Podrás visualizar la opción “Historial”, al cual darás clic.
-Deberás situarte en la parte superior izquierda, para poder encontrar la opción “E-mail”. ¡Sí, ya lo encontraste! 
-Ahora, al darle clic, aparecerá un recuadro donde deberás introducir el asunto del mensaje. Finalmente, viene el paso más sencillo, darle en el botón “Guardar”. 
+## E-mail
+Dentro de la sección e-mail se muestran todos los correos que han sido enviados con el asunto que fue enviado, los destinatarios a los cuales se les fue enviado dicho email y el estado del envio.
+
+## Buscar por el asunto del mensaje
+Para buscar un correo por asunto deberás colocar exactamente el asunto a buscar para iniciar con la búsqueda.
+
+## buscar por correo electronico
+Para buscar un correo por destinatario deberás colocar exactamente el correo electrónico del destinatario a buscar para iniciar con la búsqueda.
+
+
+{% include image.html img="../docs/primeros-pasos/historial-notificaciones.png" alt="Alt for image" caption="Historial de notificaciones" %}
