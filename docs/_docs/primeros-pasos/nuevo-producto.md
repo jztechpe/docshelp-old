@@ -30,7 +30,7 @@ Finalmente procedemos a dar click en la opcion **Guardar**
 ## Completar datos de la variante
 En la opcion **Variaciones** de la **Edición** del producto tambien completaremos algunos datos.
 {% include image.html img="../docs/primeros-pasos/nuevo-producto-5.jpg" alt="Alt for image" caption="Edición de variante" %}
-Aqui podremos ingresar tanto el *Precio Base* como el *Precio especial* y dar click en la opción **Guardar**
+Aqui podremos ingresar tanto el *Precio Base* como el *Precio promocional* y dar click en la opción **Guardar**
 {% include image.html img="../docs/primeros-pasos/nuevo-producto-6.jpg" alt="Alt for image" caption="Edición de variante" %}
-A fin de disponibilizar la variante para la venta, se debe seleccionar la opcion "Si"
-{% include image.html img="../docs/primeros-pasos/nuevo-producto-6.jpg" alt="Alt for image" caption="Edición de variante" %}
+Podremos habilitar la variante para la venta, se debe seleccionar la opcion "Si"
+{% include image.html img="../docs/primeros-pasos/nuevo-producto-permiso-variante.jpg" alt="Alt for image" caption="Edición de variante" %}
