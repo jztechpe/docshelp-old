@@ -1,13 +1,14 @@
-- title: General
-  subtitles:
-    - subtitle: 
-      docs:
-        - general/nosotros
-        - general/nuestros-productos
-    - subtitle: 
-      docs:
-        - general/roles-merchant
-        - general/roles-site
+# Esto se esta comentando solo por motivos de la presentacion
+# - title: General
+#   subtitles:
+#     - subtitle: 
+#       docs:
+#         - general/nosotros
+#         - general/nuestros-productos
+#     - subtitle: 
+#       docs:
+#         - general/roles-merchant
+#         - general/roles-site
 # - title: Como crear mi Sitio Web?
 #   docs:
 #   - site-onboarding/crear-site
@@ -44,7 +45,7 @@
 #         - primeros-pasos/nuevo-producto
 #         - primeros-pasos/nuevo-pedido
 #         - primeros-pasos/asignar-herramienta-seguimiento #
-- title: Singlepace/Marketplace
+- title: Site
   subtitles:
     - subtitle: General
       docs:
@@ -103,7 +104,7 @@
         - temas/logistica/transportistas/transportista
         - temas/logistica/asignacion/asignacion
         # - temas/logistica/transportistas/transportista-seleccion
-        - temas/merchant/almacenes/almacen
+        # - temas/merchant/almacenes/almacen
     # - subtitle: Finanzas
     #   docs:
     #     - primeros-pasos/nuevo-proveedor-de-pago
@@ -112,18 +113,18 @@
         # - primeros-pasos/crear-plantillas-web
         # - primeros-pasos/subir-carpeta-medios
         # - primeros-pasos/nuevo-producto
-- title: Merchant/Seller
+- title: Merchant
   subtitles:
     - subtitle: General
       docs:
-        - primeros-pasos/iniciar-sesion-merchant
         - primeros-pasos/inicio-dashboard-merchant
+        - primeros-pasos/iniciar-sesion-merchant
     - subtitle: Merchants
       docs:
         - temas/merchant/tienda-merchant
     - subtitle: Usuarios
       docs:
-        - temas/usuarios/equipo/crear-equipo
+        - temas/usuarios/equipo/crear-equipo-merchant
     - subtitle: Catalogo
       docs:
         - primeros-pasos/nuevo-producto
