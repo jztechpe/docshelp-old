@@ -9,7 +9,7 @@ author: ivan
 
 {% include alert.html style="success" text="⭐ Recuerda que para el registro de productos tenemos la opción para hacerlo de uno a uno y la carga masiva, en esta seccion explicaremos la opción de uno a uno" %}
 Para completar esta tarea, vamos a la opción **Productos** y luego **Crear Producto**
-{% include image.html img="../docs/primeros-pasos/nuevo-producto-1.jpg" alt="Alt for image" caption="Pantalla de Merchant Central" %}
+{% include image.html img="../docs/primeros-pasos/nuevo-producto-1.jpg" alt="Alt for image" caption="Pantalla de Site Central" %}
 Aqui debemos ingresar el *Nombre* y la *Descripción* del producto, tambien debemos seleccionar la *Marca* que ya hemos [registrado](), opcionalmente puedes seleccionar si el producto tiene múltiples variaciones, y finalmente click en el botón **Guardar**
 {% include image.html img="../docs/primeros-pasos/nuevo-producto-2.jpg" alt="Alt for image" caption="Sección de pantalla" %}
 

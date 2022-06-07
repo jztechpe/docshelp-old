@@ -12,8 +12,8 @@ Cada vez que un cliente se dispone a pagar por su compra, este seleccionara algu
 
 ## Crear nuevo proveedor de pago
 Para crear un nuevo proveedor solo debemos seleccionar la opción **Proveedores de pago** y a continuación **Crear proveedor de pago**.
-{% include image.html img="../docs/primeros-pasos/nuevo-proveedor-de-pago-1.png" alt="Alt for image" caption="Pantalla de Merchant Central" %}
+{% include image.html img="../docs/primeros-pasos/nuevo-proveedor-de-pago-1.png" alt="Alt for image" caption="Pantalla de Site Central" %}
 Ya dentro de la opción de registro, tendremos el siguiente formulario para configurar, para confirmar la acción debemos dar click en **Guardar**.
-{% include image.html img="../docs/primeros-pasos/nuevo-proveedor-de-pago-2.png" alt="Alt for image" caption="Pantalla de Merchant Central" %}
+{% include image.html img="../docs/primeros-pasos/nuevo-proveedor-de-pago-2.png" alt="Alt for image" caption="Pantalla de Site Central" %}
 Una vez registrado, tendremos la opción de añadir algunos parametros especificos para la configuración, mediante la opción **Agregar parámetro**.
-{% include image.html img="../docs/primeros-pasos/nuevo-proveedor-de-pago-3.png" alt="Alt for image" caption="Pantalla de Merchant Central" %}
+{% include image.html img="../docs/primeros-pasos/nuevo-proveedor-de-pago-3.png" alt="Alt for image" caption="Pantalla de Site Central" %}
