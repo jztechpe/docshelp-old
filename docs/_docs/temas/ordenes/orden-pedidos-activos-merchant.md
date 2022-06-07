@@ -7,7 +7,7 @@ author: Luis Zumaeta
 
 Los pedidos activos son todos aquellos que aún se encuentran en proceso de gestión. Principalmente abarcan los estados `pendiente de pago` ,`confirmado`, `listo para despacho`, `en tránsito`, `últimos entregados` y `retenidos`.
 
-Todos los pedidos se muestran en grillas y pueden ser filtrados por estados mediante las pestañas. Al hacer clic en el número del pedido, se podrá ingresar a la sección de mayor detalle del pedido.
+Todos los pedidos que se muestran son relacionados a la **tienda** en donde se efectúa el pedido y pueden ser filtrados por estados mediante las pestañas. Al hacer clic en el número del pedido, se podrá ingresar a la sección de mayor detalle del pedido.
 
 ## Pedidos activos
 Ingresando a la sección **Pedidos activos** podrás encontrar los pedidos que tengan los estados *Pendiente de Pago*, *Confirmado*, *Listo para despacho*, *En tránsito*, *Últimos Entregados* y *Retenidos*, para esto solo deberás hacer click en la pestaña correspondiente.

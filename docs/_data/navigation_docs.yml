@@ -136,8 +136,8 @@
         - temas/estado-de-operaciones-masivas
     - subtitle: Ordenes
       docs:
-        - temas/ordenes/orden-pedidos-activos
-        - temas/ordenes/orden-pedidos-finalizados
+        - temas/ordenes/orden-pedidos-activos-merchant
+        - temas/ordenes/orden-pedidos-finalizados-merchant
         #- paginas-dinamicas  
     - subtitle: CMS
       docs:
