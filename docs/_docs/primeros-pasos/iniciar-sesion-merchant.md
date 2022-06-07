@@ -26,9 +26,7 @@ author: Gisela Quiroz
 Ingresar al link de inicio de sesión, e ingresarás los datos del dominio, usuario y contraseña.
 {% include image.html img="../docs/primeros-pasos/iniciar-sesion-merchant1.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
 
-Luego seleccionarás la opción Merchant.
-
-Ingresar al link de inicio de sesión, e ingresarás los datos del dominio, nombre de usuario y contraseña.
+Luego seleccionarás la opción Gestionar Merchants.
 {% include image.html img="../docs/primeros-pasos/iniciar-sesion-merchant2.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
 
 Muestra el Merchant seleccionado y sus tiendas, luego selecciona una de las tiendas. 

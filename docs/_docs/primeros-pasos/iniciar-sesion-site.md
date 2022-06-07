@@ -26,7 +26,7 @@ author: ivan
 Ingresar al link de inicio de sesión, e ingresarás los datos del dominio, nombre de usuario y contraseña.
 {% include image.html img="../docs/primeros-pasos/iniciar-sesion-site1.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
 
-Luego seleccionarás la opción Site.
+Luego seleccionarás la opción Administrar site.
 {% include image.html img="../docs/primeros-pasos/iniciar-sesion-site2.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
 
 Listo! Estarás logueado y verificarás tu nombre. 
