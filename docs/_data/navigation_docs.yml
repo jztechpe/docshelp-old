@@ -145,7 +145,7 @@
         - temas/cms/carpeta-medios
     - subtitle: Notificaciones
       docs:
-        - primeros-pasos/asignar-lista-destinatarios
+        - primeros-pasos/asignar-lista-destinatarios-merchant
         #- clientes de integracion
         # - temas/notificaciones/crear-suscripciones
         # - primeros-pasos/asignar-herramienta-seguimiento
