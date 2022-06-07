@@ -12,7 +12,7 @@ Todos los pedidos que se muestran son relacionados a la **tienda** en donde se e
 ## Pedidos finalizados
 Ingresando a la sección **Pedidos finalizados** podrás encontrar los pedidos que tengan los estados *Entregados* y *Cancelados*, para esto solo deberás hacer click en la pestaña correspondiente.
 
-{% include image.html img="../docs/primeros-pasos/pedidos-finalizados.jpg" alt="Alt for image" caption="Pedidos Finalizados" %}
+{% include image.html img="../docs/primeros-pasos/pedidos-finalizados.png" alt="Alt for image" caption="Pedidos Finalizados" %}
 
 También podrás visualizar algunas opciones como **Iniciar descarga**, la cual permite obtener un archivo Excel con todos los registros necesarios de los pedidos y también existe otra opción de **Filtros**, en donde se puede filtrar estos pedidos por: 
  * **Filtro por fecha de creación dado un rango de fechas:** Para obtener todos los pedidos que han sido creados dentro de un rango específico de fechas.
@@ -30,7 +30,7 @@ Los pedidos en estado `cancelados`, no pueden ser modificados debido a que es un
 
 ***Se tiene que estar completamente seguro para cancelar un pedido***.
 
-{% include image.html img="../docs/primeros-pasos/pedidos-finalizados-1.jpg" alt="Alt for image" caption="Pedidos Cancelados" %}
+{% include image.html img="../docs/primeros-pasos/pedidos-finalizados-1.png" alt="Alt for image" caption="Pedidos Cancelados" %}
 
 ## Pedido entregados
 
@@ -40,4 +40,4 @@ Cambiar el estado de `en tránsito` a `entregados` implica **asegurar que el ped
 
 Dependiendo del **rol**, se podrán ejecutar diferentes acciones en el detalle del pedido.
 
-{% include image.html img="../docs/primeros-pasos/pedidos-finalizados-2.jpg" alt="Alt for image" caption="Pedidos Entregados" %}
+{% include image.html img="../docs/primeros-pasos/pedidos-finalizados-2.png" alt="Alt for image" caption="Pedidos Entregados" %}
