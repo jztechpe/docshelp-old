@@ -104,7 +104,7 @@
         - temas/logistica/transportistas/transportista
         - temas/logistica/asignacion/asignacion
         # - temas/logistica/transportistas/transportista-seleccion
-        - temas/merchant/almacenes/almacen
+        # - temas/merchant/almacenes/almacen
     # - subtitle: Finanzas
     #   docs:
     #     - primeros-pasos/nuevo-proveedor-de-pago
