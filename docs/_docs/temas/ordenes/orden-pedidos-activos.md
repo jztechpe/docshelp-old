@@ -108,7 +108,7 @@ Para cambiar de estado un pedido se deberá ingresar a la sección **Pedidos act
 {% include image.html img="../docs/primeros-pasos/pedidos-activos-cambio-estado.jpg" alt="Alt for image" caption="Cambio de estado de un Pedido" %}
 
 ## Revertir estado
-Para revertir el estado de un pedido se deberá ingresar a la sección **Pedidos activos** y seleccionar un subpedido en particular, luego en la parte superior central existe un botón de **opciones** el cual posee una opción para revertir el pedido a su estado anterior de acuerdo a los estado mencionados<a href="#qué-estados-tienen-los-pedidos">previamente</a>.
+Para revertir el estado de un pedido se deberá ingresar a la sección **Pedidos activos** y seleccionar un subpedido en particular, luego en la parte superior central existe un botón de **opciones** el cual posee una opción para revertir el pedido a su estado anterior de acuerdo a los estado mencionados <a href="#qué-estados-tienen-los-pedidos">previamente</a>.
 
 {% include image.html img="../docs/primeros-pasos/pedidos-activos-revertir.jpg" alt="Alt for image" caption="Revertir el estado de un Pedido" %}
 
