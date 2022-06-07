@@ -1,13 +1,14 @@
-- title: General
-  subtitles:
-    - subtitle: 
-      docs:
-        - general/nosotros
-        - general/nuestros-productos
-    - subtitle: 
-      docs:
-        - general/roles-merchant
-        - general/roles-site
+# Esto se esta comentando solo por motivos de la presentacion
+# - title: General
+#   subtitles:
+#     - subtitle: 
+#       docs:
+#         - general/nosotros
+#         - general/nuestros-productos
+#     - subtitle: 
+#       docs:
+#         - general/roles-merchant
+#         - general/roles-site
 # - title: Como crear mi Sitio Web?
 #   docs:
 #   - site-onboarding/crear-site
@@ -44,7 +45,7 @@
 #         - primeros-pasos/nuevo-producto
 #         - primeros-pasos/nuevo-pedido
 #         - primeros-pasos/asignar-herramienta-seguimiento #
-- title: Singlepace/Marketplace
+- title: Site
   subtitles:
     - subtitle: General
       docs:
@@ -112,12 +113,12 @@
         # - primeros-pasos/crear-plantillas-web
         # - primeros-pasos/subir-carpeta-medios
         # - primeros-pasos/nuevo-producto
-- title: Merchant/Seller
+- title: Merchant
   subtitles:
     - subtitle: General
       docs:
-        - primeros-pasos/iniciar-sesion-site
         - primeros-pasos/inicio-dashboard-merchant
+        - primeros-pasos/iniciar-sesion-site
     - subtitle: Merchants
       docs:
         - temas/merchant/tienda-merchant
