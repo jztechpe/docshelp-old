@@ -19,7 +19,7 @@ Las categorías de producto pueden ser organizadas en una estructura jerarquica 
 
 Para crear las categorías, vamos a la opción **Categorías** y luego **Crear Categoría**
 
-{% include image.html img="../docs/primeros-pasos/categoria-site1.png" alt="Alt for image" caption="Pantalla de Merchant Central" %}
+{% include image.html img="../docs/primeros-pasos/categoria-site1.png" alt="Alt for image" caption="Pantalla de Site Central" %}
 Aqui debemos escribir el *Nombre* y *Código* de la categoría nueva.
 {% include image.html img="../docs/primeros-pasos/categoria-site2.png" alt="Alt for image" caption="Sección de pantalla" %}
 Hacer clic en el botón **Crear** y automáticamente se añadirá la nueva categoría.
