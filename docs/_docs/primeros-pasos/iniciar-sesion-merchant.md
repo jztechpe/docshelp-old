@@ -2,7 +2,7 @@
 title: Iniciar Sesión
 subtitle: 
 tags: [login,acceso,crear_usuario]
-author: ivan
+author: Gisela Quiroz
 ---
 
 ## Empecemos
@@ -21,19 +21,19 @@ author: ivan
 
 > [Enlace para recuperar contraseña](https://sitecentral.ezcentral-tech.ch/password-recovery)
 
-## Pasos para iniciar sesión como Site:
+## Pasos para iniciar sesión como Merchant:
 
 Ingresar al link de inicio de sesión, e ingresarás los datos del dominio, usuario y contraseña.
-{% include image.html img="../docs/primeros-pasos/iniciar-sesion-site1.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
+{% include image.html img="../docs/primeros-pasos/iniciar-sesion-merchant1.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
 
-Luego seleccionarás la opción Site
+Luego seleccionarás la opción Merchant
 Ingresar al link de inicio de sesión, e ingresarás los datos del dominio, usuario y contraseña.
-{% include image.html img="../docs/primeros-pasos/iniciar-sesion-site2.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
+{% include image.html img="../docs/primeros-pasos/iniciar-sesion-merchant2.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
 
-Listo! Estarás logueado y verificarás tu nombre. 
+Muestra el Merchant seleccionado y sus tiendas, luego selecciona una de las tiendas. 
 Ingresar al link de inicio de sesión, e ingresarás los datos del dominio, usuario y contraseña.
-{% include image.html img="../docs/primeros-pasos/iniciar-sesion-site2.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
+{% include image.html img="../docs/primeros-pasos/iniciar-sesion-merchant3.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
 
-
-
-
+Listo! Estarás logueado, verificarás tu nombre, el merchant y la tienda seleccionada. 
+Ingresar al link de inicio de sesión, e ingresarás los datos del dominio, usuario y contraseña.
+{% include image.html img="../docs/primeros-pasos/iniciar-sesion-merchant4.png" alt="Alt for image" caption="Información de Inicio Merchant" %}

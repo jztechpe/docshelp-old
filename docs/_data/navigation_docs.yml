@@ -116,7 +116,7 @@
   subtitles:
     - subtitle: General
       docs:
-        - primeros-pasos/iniciar-sesion-site
+        - primeros-pasos/iniciar-sesion-merchant
         - primeros-pasos/inicio-dashboard-merchant
     - subtitle: Merchants
       docs:
