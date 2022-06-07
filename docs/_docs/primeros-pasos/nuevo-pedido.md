@@ -5,7 +5,6 @@ tags: [nuevo_pedido]
 author: ivan
 ---
 ## ¿Qué estados tienen los pedidos?
-
 > **Nuevo**: Es el primer estado con el que la orden es creada.
 > 
 > **Pendiente de pago**: Después de que la orden se crea pasa a ser pendiente de pago, hasta que se efectue el pago.
@@ -42,5 +41,7 @@ Dentro de un pedido se podrá visualizar una vista como la que se mostrará a co
 
 ## ¿Cómo se agrupan los pedidos?
 Cada pedido puede tener uno o más subpedidos, los cuales son agrupados de acuerdo al almacén desde donde se recolectan los productos. Es decir si se tiene un pedido con 2 productos diferentes, el producto A1 se obtiene desde el almacén B1 y el producto A2 se obtiene desde el almacén B2, entonces se creará un pedido con 2 subpedidos. Caso contrario de que ambos productos se encuentren en el mismo almacén entonces solo se crearía un subpedido que contendría estos 2 productos.
+
+Existen 2 tipos de subpedidos: Entrega a domicilio y Retiro en tienda. El primero es el usual donde se debe enviar el producto hacia la direccion ingresada por el comprador y el segundo es donde el comprador se acerca a un punto fisico donde el producto ya debe estar ubicado.
 
 {% include image.html img="../docs/primeros-pasos/pedidos-agrupamiento.jpg" alt="Alt for image" caption="Pedidos Agrupamiento" %}

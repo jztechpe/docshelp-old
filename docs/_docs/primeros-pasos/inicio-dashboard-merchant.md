@@ -1,6 +1,6 @@
 ---
 title: Inicio
-subtitle: Crea y actualiza múltiples productos.
+subtitle: Inicio y Dashboard.
 tags: [inicio,dashboard,informacion_site]
 author: Gisela Quiroz
 ---

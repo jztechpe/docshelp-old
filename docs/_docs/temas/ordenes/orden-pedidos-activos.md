@@ -67,6 +67,8 @@ La edición de datos del destinatario permite modificar lo siguiente:
 
 Los pedidos en estado `listo para despacho` reflejan aquellos pedidos que se encuentran listos para ser despachados y ser entregados al transportista (entrega a domicilio) o al usuario final (recojo en tienda).
 
+{% include alert.html style="success" text="⚠️ Cabe mencionar que cuando un pedido es movida del estado `Confirmado` al estado `Listo para Despacho` y el subpedido es del tipo `Delivery`, la plataforma se encargara de asignar un transportista automaticamente al subpedido." %}
+
 Este estado es previo a `en tránsito`. Cambiar el estado de `listo para despacho` a `en transito` implica **asegurar que el pedido ya se encuentra en posesión del transportista**.
 
 Dependiendo del **rol**, se podrán ejecutar diferentes acciones en el detalle del pedido.
