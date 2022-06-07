@@ -67,9 +67,9 @@ Aqui debemos ingresar los datos del nuevo usuario como *Nombres*, *Apellidos*, *
 
 ## Editar usuario
 Una vez que el usuario se encuentra creado, tendremos la opción de editarlo, como se muestra en la imágen.
-{% include image.html img="../docs/temas/usuarios/equipo/editar-equipo-1.png" alt="Alt for image" caption="prueba" %}
+{% include image.html img="../docs/temas/usuarios/equipo/editar-equipo-merchant-1.png" alt="Alt for image" caption="prueba" %}
 Nos dirige a la sección **General**, aqui aparecera la información actualmente del usuario asi como sus roles.
-{% include image.html img="../docs/temas/usuarios/equipo/editar-equipo-merchant-2.jpeg" alt="Alt for image" caption="prueba" %}
+{% include image.html img="../docs/temas/usuarios/equipo/editar-equipo-merchant-2.png" alt="Alt for image" caption="prueba" %}
 Cuando vayamos a la sección **Roles**, aqui aparecera todos los roles que puede tener el usuario 
 ademas de poder añadir o quitar roles al usuario con tan solo dar click a la casilla. Si sale 
 seleccionada la casilla quiere decir que el usuario posee ese rol y sino aparece seleccionado quiere 
