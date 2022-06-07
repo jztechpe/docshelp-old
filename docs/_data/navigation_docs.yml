@@ -124,7 +124,7 @@
         - temas/merchant/tienda-merchant
     - subtitle: Usuarios
       docs:
-        - temas/usuarios/equipo/crear-equipo
+        - temas/usuarios/equipo/crear-equipo-merchant
     - subtitle: Catalogo
       docs:
         - primeros-pasos/nuevo-producto
