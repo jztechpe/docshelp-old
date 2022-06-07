@@ -23,18 +23,14 @@ author: ivan
 
 ## Pasos para iniciar sesión como Site:
 
-Ingresar al link de inicio de sesión, e ingresarás los datos del dominio, usuario y contraseña.
+Ingresar al link de inicio de sesión, e ingresarás los datos del dominio, nombre de usuario y contraseña.
 {% include image.html img="../docs/primeros-pasos/iniciar-sesion-site1.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
 
 Luego seleccionarás la opción Site.
-
-Ingresar al link de inicio de sesión, e ingresarás los datos del dominio, usuario y contraseña.
 {% include image.html img="../docs/primeros-pasos/iniciar-sesion-site2.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
 
 Listo! Estarás logueado y verificarás tu nombre. 
-
-Ingresar al link de inicio de sesión, e ingresarás los datos del dominio, usuario y contraseña.
-{% include image.html img="../docs/primeros-pasos/iniciar-sesion-site2.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
+{% include image.html img="../docs/primeros-pasos/iniciar-sesion-site3.png" alt="Alt for image" caption="Información de Inicio Merchant" %}
 
 
 
