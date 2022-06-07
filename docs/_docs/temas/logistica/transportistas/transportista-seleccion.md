@@ -4,7 +4,7 @@ tags: [envios,transportista]
 author: katlimruiz
 ---
 
-{% include alert.html style="success" text="⚠️ Cabe mencionar que cuando un pedido es movida del estado `Confirmado` al estado `Listo para Despacho` y la suborden es del tipo `Delivery`, la plataforma esta encargada de asignar un transportista o carrier automaticamente a la suborden." %}
+
 
 Este algoritmo tiene muchisimo potencial y mucho camino por recorrer. La idea eventualmente es lograr un algoritmo "vivo" que tome una decision acerca del mejor transportista para una suborden en base a su historial, carga de trabajo, velocidad, bajo costo, etc. Sin embargo, a Julio 2021, tenemos un algoritmo mas pequeno reducido que luego se puede ir incrementando en su capacidad.
 

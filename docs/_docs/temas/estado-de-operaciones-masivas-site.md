@@ -18,25 +18,27 @@ Para cada operación manejamos 5 tipos de estados:
 * **Finalizado con error:** En caso de que existan errores al momento de procesarse cualquier operación, se generará con este estado, cabe destacar que se puede visualizará el error a detalle para que de esta manera pueda ser corregido.
 * **Error:** Es un estado poco común pero se da cuando existe algún problema que impide que la operación comience.
   
-
 ## ¿Que operaciones soporta?
 
-### **Como Merchant:**
-* Creación masiva de productos
-* Creación masiva completa de productos
-* Actualización masiva completa de productos
-* Actualización masiva de productos
-* Actualización masiva de imágenes
-* Actualización masiva de stocks
-* Actualización masiva de precios bases
-* Actualización masiva de precios promocionales
-* Activación y desactivación masiva de productos
-* Actualización masiva de imágenes externas de variaciones
-* Activación y desactivación masiva de variaciones
-* Actualización de boost
+### **Como Site:**
+* Exportación de merchants
+* Exportación de tiendas
+* Exportación de equipo
+* Exportación de clientes
+* Exportación de marcas
+* Exportación de categorías
+* Exportación de pedidos con filtros: 
+    * `Filtro dado un rango de fechas`: Para obtener todos los pedidos que han sido efectuados dentro de un rango específico de fechas.
+    * `Filtro por un código identificador de un usuario`: Para obtener todos los pedidos que han sido efectuados por un usuario en particular.
+    * `Filtro por un correo electrónico`: Para obtener todos los pedidos que estan relacionados en un correo.
+    * `Filtro por una campaña`: Para obtener todos los pedidos a los que se le ha aplicado una campaña.
+    * `Filtro por cupón`: Para obtener todos los pedidos a los que se le ha aplicado un cupón.
+    * `Filtro por estados`: Para obtener todos los pedidos de acuerdo a uno o más estados.
+* Cambio masivo de estado de pedidos
+* Actualización masiva de boost
 
-En la siguiente pantalla podemos ver un ejemplo de los estados de operaciones masivas como **merchant**:
-{% include image.html img="../docs/temas/estado-de-operaciones-masivas-1.jpg" alt="Alt for image" caption="Estado de operaciones masivas como merchant" %}
+En la siguiente pantalla podemos ver un ejemplo de los estados de operaciones masivas como **site**:
+{% include image.html img="../docs/temas/estado-de-operaciones-masivas-3.png" alt="Alt for image" caption="Estado de operaciones masivas como site" %}
 
 Al hacer click en la **lupa** visualizaremos una ventana como esta, donde se muestra el detalle de los **errores**:
 {% include image.html img="../docs/temas/estado-de-operaciones-masivas-2.jpg" alt="Alt for image" caption="Detalle de la operación procesada" %}

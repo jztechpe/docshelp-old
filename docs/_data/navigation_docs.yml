@@ -66,7 +66,7 @@
         - primeros-pasos/nueva-categoria
     - subtitle: Reportes
       docs:
-        - temas/estado-de-operaciones-masivas
+        - temas/estado-de-operaciones-masivas-site
     - subtitle: Ordenes
       docs:
         - primeros-pasos/nuevo-pedido
@@ -120,7 +120,7 @@
         - primeros-pasos/inicio-dashboard-merchant
     - subtitle: Merchants
       docs:
-        - temas/merchant/tienda
+        - temas/merchant/tienda-merchant
     - subtitle: Usuarios
       docs:
         - temas/usuarios/equipo/crear-equipo
