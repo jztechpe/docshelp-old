@@ -85,7 +85,7 @@ En esta sección crearemos "Tarifas y tiempos de envío" entre las zonas habilit
 Para mayor información puedes revisar la sección de "Tarifas".
 
 ## Seleccionar tarifa
-Para poder seleccionar una tarifa, primero la tarifa que se quiere seleccionar debe tener como minimo una ruta tarifaria y dicha ruta tarifaria debe tener como minimo 1unacondicion especial.
+Para poder seleccionar una tarifa, primero la tarifa que se quiere seleccionar debe tener como minimo una ruta tarifaria y dicha ruta tarifaria debe tener como minimo una condicion especial.
 
 Para mayor información puedes revisar la sección de "Tarifas".
 
@@ -104,12 +104,13 @@ Para poder configurar el metodo de envio de la cobertura, iremos al boton en la 
 Para mayor informacion puedes revisar la seccion de "Metodos de envío".
 
 ## Publicar cobertura
-Para poder publicar una cobertura, iremos al boton de la columna Acciones y vamos a **Publicar cobertura**.
+Para poder publicar una cobertura, la tarifa actual debe tener como minimo una ruta tarifaria y dicha ruta tarifaria debe tener como minimo una condicion especial, en caso contrario el boton de **Publicar cobertura** no aparecera.
+
 {% include alert.html style="success" text="⚠️ Cabe mencionar que cuando estemos en el apartado de Coberturas de una campaña, esta opcion de Publicar cobertura solo se podra ver cuando se haya creado una zona." %}
+Iremos al boton de la columna Acciones y vamos a **Publicar cobertura**. 
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/publicar-cobertura.png" alt="Alt for image" caption="prueba" %}
 
-Cabe mencionar cuando edito una cobertura y dicha cobertura esta publicada, su estado de publicacion cambiara a pendiente. Esto solo pasara cuando edito una cobertura.
-
+Cuando edito una cobertura y dicha cobertura esta publicada, su estado de publicacion cambiara a pendiente. Esto solo pasara cuando edito una cobertura.
 
 Por último, es muy importante recalcar que cualquier cambio para que se vea reflejado en la web es necesario **"Pubicar coberturas"**
 
