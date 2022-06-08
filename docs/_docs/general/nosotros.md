@@ -5,25 +5,21 @@ tags: [General]
 author: Luis Zumaeta
 ---
 
-¡Hola! Gracias por interesarte en saber quienes somos. En esta sección entenderás nuestra razón de existir y nuestra motivación diaria.
+NiewTech es una empresa que se dedica al rubro de la tecnología, enfocado en el comercio electrónico. Ofrecemos productos completos para la creación y gestión de Marketplace y Single Place, tanto para grandes y medianas empresas. Asimismo, brindamos servicios adicionales o complementarios como operaciones, servicio de atención al cliente, marketing y onboarding.
 
 ## **Visión**
-Ser el mejor aliado de E-commerce, entregando experiencias digitales de manera rápida y escalable.
+Ser el mejor aliado ecommerce, permitiendo entregar experiencias digitales de manera rápida y escalable.
 
 ## **Misión**
-Crear la siguiente generación de software que permita construir soluciones digitales de una forma simple.
+Ser líderes en creación y crecimiento Ecommerce, con el objetivo de brindar la mejor experiencia en soluciones digitales de la mano con expertos en comercio electrónico
 
 ## **Valores**
-- **Personas primero**. No solo nos preocupamos por nuestros clientes sino que también por nuestro equipo.
- 
-- **Empoderamiento**. Ser parte de la solución y hacerlo increíble.
- 
-- **Cuestionamiento constante**. No nos cansamos de preguntar.
- 
-- **Jugar como equipo**. No estamos solos, todos ganamos.
- 
-- **Afrontamos el cambio**. Sal de la zona de confort.
- 
-- **Mejoras constanes**. El producto correcto al tiempo correcto.
- 
-- **Crecimiento exponencial**. Todo multiplicado por 10x.
+- **Responsabilidad**
+  
+- **Persistencia**
+
+- **Lealtad**
+
+- **Innovación**
+
+- **Compromiso**
