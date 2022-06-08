@@ -54,6 +54,8 @@ Nos saldra un recuadro donde escogeremos el metodo de envio para la cobertura.
 {% include alert.html style="success" text="⚠️ Cabe mencionar que cuando no se pueden crear dos cobertuas con el mismo metodo de envio." %}
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/cobertura-tarifa-2.png" alt="Alt for image" caption="prueba" %}
 
+Cuando creamos una cobertura, el sistema le tambien las tarifas que son 2 lladas "tarifa 1" y "tarifa 2" ademas el sistema le asigna a la cobertura recien creada, la tarifa 1 como su tarifa actual. La tarifa actual puede cambiar yendo a la opcion de **Seleccionar tarifa** que se explicara mas adelante.
+
 Ahora pasaremos a ver todas las acciones que podemos hacer para una cobertura y para eso le damos click al boton de la columna Acciones.
 {% include alert.html style="success" text="⚠️ Cabe mencionar que cuando entremos al apartado de Coberturas en una campaña solo se podran ver las opciones de Publicar cobertura, Editar cobertura y Configuracion." %}
 {% include image.html img="../docs/temas/logistica/coberturas_tarifas/cobertura-tarifa-3.png" alt="Alt for image" caption="prueba" %}
