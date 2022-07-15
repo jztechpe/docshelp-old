@@ -21,7 +21,6 @@ Las operaciones masivas disponibles son:
 - Activación y desactivación masiva de productos.
 - Actualización masiva de imágenes externas de variaciones.
 - Activación y desactivación masiva de variaciones.
-- Actualización de boost.
 
 Cada opción permite la descarga de una plantilla excel que sirve como modelo para completar la información requerida y para realizar la carga masiva.
 
@@ -93,7 +92,7 @@ Para crear 1 producto con muchas variaciones, se deben seguir los siguientes pas
 - Todas las variaciones deben tener diferentes SKU's.
 - El campo variaciones debe contener y respetar los valores: Color, Capacidad, Talla y Estilo.
 
-## Actualización masiva completa de productos
+## Actualización masiva de productos
 
 La **actualización masiva de productos** permite actualizar múltiples productos desde un archivo excel. Esta plantilla utiliza principalmente el campo **ProductId** para realizar la actualización.
 
@@ -103,6 +102,10 @@ Por ejemplo:
 
 `Si el campo "Nombre del producto" se ingresa un nuevo valor y el campo "Descripción del producto" se encuentra vacío`
 `Entonces solo se actualizará el campo "Nombre el producto"`
+
+## Actualización masiva completa de productos
+
+La **actualización masiva de productos** permite actualizar múltiples productos desde un archivo excel de manera mas completa, podrás actualizar las imagenes del producto y sus variaciones, precio base y promocionales, información del producto, permisos del producto, especificaciones, almacén y stock. Esta plantilla utiliza principalmente el campo **ProductId** para realizar la actualización.
 
 ## Actualización masiva de imágenes
 
