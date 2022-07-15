@@ -25,8 +25,6 @@ Las operaciones masivas disponibles son:
 
 Cada opción permite la descarga de una plantilla excel que sirve como modelo para completar la información requerida y para realizar la carga masiva.
 
-{% include image.html img="../docs/primeros-pasos/operaciones-masivas.png" alt="Alt for image" caption="Operaciones masivas para site" %}
-
 {% include image.html img="../docs/primeros-pasos/operaciones-masivas-2.png" alt="Alt for image" caption="Operaciones masivas para merchant" %}
 
 ***Recomendaciones generales para las operaciones masivas:***
@@ -157,13 +155,3 @@ La **actualización masiva de imagenes externas de variaciones** permite actuali
 ## Actualización y desactivación masiva de variaciones
 
 La **actualización y desactivación masiva de variacioness** permite actualizar las variaciones para  habilitar para la venta. Esta plantilla utiliza principalmente el campo **SKU** para realizar la actualización.
-
-## Actualización masiva de boost
-
-La plataforma permite realizar **operaciones masivas** con cargas de excel para actualizar el boost por Site .  Esta plantilla utiliza principalmente el campo **ProductId** y **Boost por Site** para realizar la actualización.
-El **boost** hace referencia al valor sugerido de **ordenamiento** del producto en el catálogo. Este valor permite que el catálogo pueda sugerir un ordenamiento especial.
-
-***Recomendaciones para operaciones masivas de boost:***
-- Verificar los productID registrados en la plataforma, ya que deberá colocarse exactamente igual en la actualización de boost de tienda.
-- No modificar el nombre de las columnas y pestañas de la plantilla.
-- No realizar fórmulas, sólo deberá registrar el valor en las celdas.
